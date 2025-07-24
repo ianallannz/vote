@@ -48,7 +48,7 @@ h3 {
 /* Header styles */
 .home-header {
   padding: 0rem;
-  background-image: url('images/cream-bg.png');
+  background-image: url('../images/cream-bg.png');
   background-size: cover;
   background-position: center;
 }
@@ -178,7 +178,7 @@ h3 {
   transform: translateX(-50%);
   width: 40px;  /* or your arrow image width */
   height: 24px;  /* or your arrow image height */
-  background-image: url('images/down-arrow.svg');
+  background-image: url('../images/down-arrow.svg');
   background-repeat: no-repeat;
   background-size: contain;
   filter: brightness(0) invert(1);
@@ -217,7 +217,7 @@ h3 {
   width: 100%;
   height: 280px;
   margin-top: -160px;
-  background-image: url('images/angle-divider.svg'); /* your SVG file path */
+  background-image: url('../images/angle-divider.svg'); /* your SVG file path */
   background-repeat: no-repeat;
   background-size: 100% 100%; /* stretch to fill both width and height */
   background-position: center;
@@ -295,7 +295,7 @@ h3 {
 /* Header styles */
 .home-header {
   padding: 0rem;
-  background-image: url('images/cream-bg.png');
+  background-image: url('../images/cream-bg.png');
   background-size: cover;
   background-position: center;
 }
@@ -423,7 +423,7 @@ h3 {
   transform: translateX(-50%);
   width: 40px;  /* or your arrow image width */
   height: 24px;  /* or your arrow image height */
-  background-image: url('images/down-arrow.svg');
+  background-image: url('../images/down-arrow.svg');
   background-repeat: no-repeat;
   background-size: contain;
   filter: brightness(0) invert(1);
@@ -462,7 +462,7 @@ h3 {
   width: 100%;
   height: 280px;
   margin-top: -160px;
-  background-image: url('images/angle-divider.svg'); /* your SVG file path */
+  background-image: url('../images/angle-divider.svg'); /* your SVG file path */
   background-repeat: no-repeat;
   background-size: 100% 100%; /* stretch to fill both width and height */
   background-position: center;
