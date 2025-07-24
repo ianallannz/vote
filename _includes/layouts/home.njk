@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% if page.title %}{{ page.title }} | {% endif %}Ian Allan Vote</title>
+    <link rel="stylesheet" href="/css/custom.css">
+  </head>
+  <body>
+
+    {{ content | safe }}
+
+    <footer>
+      <p>&copy; {{ 'now' | date('Y') }} Ian Allan Vote</p>
+    </footer>
+  </body>
+</html>
