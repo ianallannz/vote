@@ -48,7 +48,7 @@ h3 {
 /* Header styles */
 .home-header {
   padding: 0rem;
-  background-image: url('images/cream-bg.png');
+  background-image: url('../images/cream-bg.png');
   background-size: cover;
   background-position: center;
 }
@@ -80,14 +80,14 @@ h3 {
 
 .bottom-row {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr;
   max-width: 1024px; /* typical laptop breakpoint */
   width: 100%;
   padding: 0;
 }
 
 .left-column {
-  padding: 2rem; /* Just in case, override defaults */
+  padding: 2rem 2rem 1rem 2rem; /* Just in case, override defaults */
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -99,13 +99,13 @@ h3 {
   display: flex;
   justify-content: flex-end;
   align-items: flex-end;
-  padding-top: 2rem;
+  padding-top: 0rem;
 }
 
 .logotype {
   display:block;
   font-family: 'Inter', sans-serif;
-  font-size: 3.5rem;
+  font-size: 2.8rem;
   color:#000000;
 }
 
@@ -156,34 +156,18 @@ h3 {
 .hero-nav {
   font-family: 'Inter', sans-serif;
   font-weight: 600;
-  font-size: 0.9rem;
-  padding-top: 5rem;
-  padding-bottom: 3rem;
+  font-size: 0.8rem;
+  padding: 0rem 1.5rem 3rem 1.5rem;
 }
 
 .hero-nav ul li {
   display: inline;
-  padding-right: 1rem;
+  padding-right: 0.3rem;
 }
 
 .hero-nav ul li.active {
   position: relative;
 }
-
-.hero-nav ul li.active::after {
-  content: "";
-  position: absolute;
-  bottom: -20px; /* adjust as needed to hang below */
-  left: 50%;
-  transform: translateX(-50%);
-  width: 40px;  /* or your arrow image width */
-  height: 24px;  /* or your arrow image height */
-  background-image: url('images/down-arrow.svg');
-  background-repeat: no-repeat;
-  background-size: contain;
-  filter: brightness(0) invert(1);
-}
-
 
 .baseline-img {
   width: 100%;
@@ -197,7 +181,7 @@ h3 {
 
 
 .top-content p {
-  font-size: 0.8rem;
+  font-size: 0.7rem;
   font-family: 'Inter', sans-serif;
   font-weight: 500;
 }
@@ -217,7 +201,7 @@ h3 {
   width: 100%;
   height: 280px;
   margin-top: -160px;
-  background-image: url('images/angle-divider.svg'); /* your SVG file path */
+  background-image: url('../images/angle-divider.svg'); /* your SVG file path */
   background-repeat: no-repeat;
   background-size: 100% 100%; /* stretch to fill both width and height */
   background-position: center;
@@ -295,7 +279,7 @@ h3 {
 /* Header styles */
 .home-header {
   padding: 0rem;
-  background-image: url('images/cream-bg.png');
+  background-image: url('../images/cream-bg.png');
   background-size: cover;
   background-position: center;
 }
@@ -399,11 +383,8 @@ h3 {
 }
 
 .hero-nav {
-  font-family: 'Inter', sans-serif;
-  font-weight: 600;
   font-size: 0.9rem;
-  padding-top: 5rem;
-  padding-bottom: 3rem;
+  padding: 2rem 1.5rem 3rem 1.5rem;
 }
 
 .hero-nav ul li {
@@ -413,20 +394,6 @@ h3 {
 
 .hero-nav ul li.active {
   position: relative;
-}
-
-.hero-nav ul li.active::after {
-  content: "";
-  position: absolute;
-  bottom: -20px; /* adjust as needed to hang below */
-  left: 50%;
-  transform: translateX(-50%);
-  width: 40px;  /* or your arrow image width */
-  height: 24px;  /* or your arrow image height */
-  background-image: url('images/down-arrow.svg');
-  background-repeat: no-repeat;
-  background-size: contain;
-  filter: brightness(0) invert(1);
 }
 
 
@@ -462,7 +429,7 @@ h3 {
   width: 100%;
   height: 280px;
   margin-top: -160px;
-  background-image: url('images/angle-divider.svg'); /* your SVG file path */
+  background-image: url('../images/angle-divider.svg'); /* your SVG file path */
   background-repeat: no-repeat;
   background-size: 100% 100%; /* stretch to fill both width and height */
   background-position: center;
