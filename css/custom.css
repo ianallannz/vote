@@ -64,7 +64,7 @@ h3 {
 
 .hero-container {
   display: grid;
-  grid-template-rows: 40px 1fr;
+  grid-template-rows: 36px 1fr;
   margin: 0;
 }
 
@@ -72,8 +72,11 @@ h3 {
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 5px;
-  height: 40px;
+  padding: 4px;
+  height: 36px;
+  background-color: rgba(255,255,255,0.2);
+  border-bottom: 1px solid rgba(0,0,0,0.1);
+
 }
 
 .bottom-wrapper {
@@ -146,7 +149,8 @@ h3 {
 .hero-cta {
   padding-top: 1.3rem;
   font-size: 1.4rem;
-  font-weight: 500;
+  line-height: 1.8rem;
+  font-weight: 600;
   letter-spacing: -0.051rem;
   font-family: 'Inter', sans-serif;
 
@@ -160,13 +164,14 @@ h3 {
 .hero-nav {
   font-family: 'Inter', sans-serif;
   font-weight: 600;
-  font-size: 0.8rem;
+  letter-spacing: -0.051rem;
+  font-size: 1.4rem;
   padding: 0rem 1.5rem 3rem 1.5rem;
 }
 
 .hero-nav ul li {
-  display: inline;
-  padding-right: 0.3rem;
+  display: inline-block;
+  padding: 0.2rem 0.2rem 0.2rem 0.2rem;
 }
 
 .hero-nav ul li.active {
@@ -214,13 +219,13 @@ h3 {
 
 .page-container {
   display: grid;
-  grid-template-rows: 40px 1fr;
+  grid-template-rows: 36px 1fr;
   margin: 0;
 }
 
 .page-top-row {
   display: flex;
-  justify-content:left;
+  justify-content:center;
   align-items: center;
   padding: 4px 4px 4px 4px;
   height: 36px;
@@ -261,7 +266,7 @@ h3 {
 .page-logotype {
   display:block;
   font-family: 'Inter', sans-serif;
-  font-size: 2rem;
+  font-size: 2.4rem;
   color:#000000;
 }
 
@@ -373,9 +378,9 @@ h3 {
 
 .pc-left p {
   margin-left: 0.8rem;
-  padding: 0.3rem 0rem 0.6rem 1rem;
-  line-height: 1.6rem;
-  font-size: 1rem;
+  padding: 0.3rem 0rem 0.6rem 0.8rem;
+  line-height: 1.8rem;
+  font-size: 1.2rem;
 
 }
 .pc-right {
@@ -413,9 +418,9 @@ h3 {
 
 .wait-left p {
   margin-left: 0.8rem;
-  padding: 0.3rem 0rem 0.6rem 1rem;
-  line-height: 1.6rem;
-  font-size: 1rem;
+  padding: 0.3rem 0rem 0.6rem 0.8rem;
+  line-height: 1.8rem;
+  font-size: 1.2rem;
 
 }
 .waitright {

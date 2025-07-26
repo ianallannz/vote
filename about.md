@@ -3,7 +3,7 @@ layout: layouts/layout.njk
 title: About
 ---
 
-## About Ian Allan
+## Why me?
 
 At 48, my heart’s on my sleeve and my head’s screwed on. 
 
