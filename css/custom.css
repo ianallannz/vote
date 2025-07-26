@@ -7,6 +7,10 @@
   --text-link-color: #2300EB;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 * {
   margin: 0;
   padding: 0;
