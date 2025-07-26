@@ -5,12 +5,12 @@ document.getElementById("nativeShare").addEventListener("click", async (e) => {
     try {
       await navigator.share({
         title: document.title,
-        text: "Check out this page!",
+        text: "Hey, check out Ian Allan running for Gisborne District Council.",
         url: window.location.href
       });
-      console.log("Thanks for sharing!");
+      console.log("Thanks for sharing me, I really appreciate it!");
     } catch (err) {
-      console.error("Error sharing:", err);
+      console.error("Damn, sharing error, just copy and paste the link instead:", err);
     }
   } else {
     alert("Sharing not supported on this browser.");

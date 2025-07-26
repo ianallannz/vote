@@ -199,6 +199,126 @@ h3 {
   text-decoration: none;
 }
 
+
+
+
+/* Page header styles */
+
+
+.page-header {
+  padding: 0rem;
+  background-image: url('../images/cream-bg.png');
+  background-size: cover;
+  background-position: center;
+}
+
+.page-container {
+  display: grid;
+  grid-template-rows: 40px 1fr;
+  margin: 0;
+}
+
+.page-top-row {
+  display: flex;
+  justify-content:left;
+  align-items: center;
+  padding: 4px 4px 4px 0px;
+  height: 36px;
+  background-color: rgba(255,255,255,0.2);
+  border-bottom: 1px solid rgba(0,0,0,0.1);
+}
+
+.pagebottom-wrapper {
+  display: flex;
+  justify-content: center;
+  padding: 0;
+}
+
+.page-bottom-row {
+  display: grid;
+  grid-template-columns: 1fr;
+  max-width: 1024px; /* typical laptop breakpoint */
+  width: 100%;
+  padding: 0;
+}
+
+.page-left-column {
+  padding: 0.5rem 1.5rem 1rem 1.5rem; /* Just in case, override defaults */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: left;
+  height: 100%;
+}
+
+.page-right-column {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  padding-top: 0rem;
+}
+
+.page-logotype {
+  display:block;
+  font-family: 'Inter', sans-serif;
+  font-size: 2rem;
+  color:#000000;
+}
+
+.page-logotype .ian {
+  letter-spacing: -0.1rem;
+  font-weight: 500;
+}
+
+.page-logotype .allan {
+  letter-spacing: -0.05rem;
+  font-weight: 800;
+}
+.page-logotype .dot {
+  letter-spacing: -0.4rem;
+  color:#F89628;
+}
+.page-logotype .vote {
+  letter-spacing: -0.1rem;
+  color:#F89628;
+}
+
+.page-nav {
+  font-family: 'Inter', sans-serif;
+  font-weight: 600;
+  font-size: 0.8rem;
+  padding: 0.3rem 1.5rem 3.5rem 0rem;
+}
+
+.page-nav ul li {
+  display: inline;
+  padding-right: 0.3rem;
+}
+
+.page-nav ul li a.active {
+  color: var(--text-color);
+  text-decoration: none;
+}
+
+.page-top-content p {
+  font-size: 0.7rem;
+  padding-left: 1.5rem;
+  font-family: 'Inter', sans-serif;
+  font-weight: 500;
+}
+
+.page-top-content a {
+  color: var(--text-link-color);
+  text-decoration: underline;
+}
+
+.page-top-content a:hover {
+  text-decoration: none;
+}
+
+
+
+
 .angle-divider {
   position: relative;
   pointer-events: none;
@@ -210,6 +330,61 @@ h3 {
   background-size: 100% 100%; /* stretch to fill both width and height */
   background-position: center;
 }
+
+.page-angle-divider {
+  position: relative;
+  pointer-events: none;
+  width: 100%;
+  height: 100px;
+  margin-top: -70px;
+  background-image: url('../images/angle-divider.svg'); /* your SVG file path */
+  background-repeat: no-repeat;
+  background-size: 100% 100%; /* stretch to fill both width and height */
+  background-position: center;
+}
+
+
+
+
+.page-content {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  padding: 0 25px 0 0;
+  width: 100%;
+  margin-top: -10px;
+  background-color: #FFFFFF;
+}
+
+.pc-container {
+  display: grid;
+  grid-template-columns: 1fr;
+  max-width: 1024px; /* typical laptop breakpoint */
+  width: 100%;
+  padding: 0;
+}
+
+.pc-left {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: left;
+}
+
+.pc-left p {
+  margin-left: 0.8rem;
+  padding: 0.3rem 0rem 0.8rem 1rem;
+  line-height: 1.8rem;
+  font-size: 1.2rem;
+
+}
+.pc-right {
+  display: flex;
+}
+
+
+
+
 
 .whatamithinking {
   position: relative;
