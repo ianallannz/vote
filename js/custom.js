@@ -16,3 +16,9 @@ document.getElementById("nativeShare").addEventListener("click", async (e) => {
     alert("Sharing not supported on this browser.");
   }
 });
+
+
+document.getElementById('hamburger-toggle').addEventListener('click', () => {
+  const menu = document.getElementById('hamburger-menu');
+  menu.classList.toggle('expanded');
+});
