@@ -1,3 +1,10 @@
+window.addEventListener('scroll', () => {
+  if (window.scrollY === 0 && location.hash) {
+    history.replaceState(null, '', location.origin + location.pathname + location.search);
+  }
+});
+
+
 document.getElementById("nativeShare").addEventListener("click", async (e) => {
   e.preventDefault();
 
@@ -54,3 +61,5 @@ mediaQuery.addEventListener("change", handleBreakpointChange);
 
 // Optional: run on initial load
 handleBreakpointChange(mediaQuery);
+
+
