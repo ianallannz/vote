@@ -1,0 +1,14 @@
+{
+  "title": "Ian for Council",
+  "url": "https://ianallan.vote",
+  "description": "I'd love for you to vote for Ian Allan to be your councillor on the Gisborne District Council.",
+  "image": "https://ianallan.vote/images/ianallan-social.jpg",
+  "author": "Ian Allan",
+  "locale": "en_NZ",
+  "twitter": {
+    "card": "summary_large_image"
+  },
+  "og": {
+    "type": "website"
+  }
+}
