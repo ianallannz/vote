@@ -9,10 +9,12 @@
   <title>{% if page.title %}{{ page.title }} | {% endif %}Ian Allan for Gisborne District Council</title>
   <link rel="stylesheet" href="../css/custom.css">
   <script src="../js/custom.js" defer></script>
-  
+
   <!-- Open Graph (used by Facebook, LinkedIn, etc.) -->
-  <meta property="og:title" content="{% if page.title %}{{ page.title }} | {% endif %}Ian Allan for Gisborne District Council">
-  <meta property="og:description" content="I'd love for you to vote for Ian Allan to be your councillor on the Gisborne District Council.">
+  <meta property="og:title"
+    content="{% if page.title %}{{ page.title }} | {% endif %}Ian Allan for Gisborne District Council">
+  <meta property="og:description"
+    content="I'd love for you to vote for Ian Allan to be your councillor on the Gisborne District Council.">
   <meta property="og:image" content="https://ianallan.vote/images/ianallan-social.jpg">
   <meta property="og:url" content="{{ site.url }}{{ page.url }}">
   <meta property="og:type" content="website">
@@ -21,7 +23,8 @@
   <!-- Twitter Card -->
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Ian Allan for Gisborne District Council">
-  <meta name="twitter:description" content="I'd love for you to vote for Ian Allan to be your councillor on the Gisborne District Council.">
+  <meta name="twitter:description"
+    content="I'd love for you to vote for Ian Allan to be your councillor on the Gisborne District Council.">
   <meta name="twitter:image" content="https://ianallan.vote/images/ianallan-social.jpg">
 
 </head>
@@ -40,7 +43,7 @@
           <div class="page-left-column">
             <div class="page-logotype">
               <a href="../"><span class="ian">ian</span><span class="allan">allan</span><span class="dot">.</span><span
-                class="vote">vote</span></a>
+                  class="vote">vote</span></a>
             </div>
 
           </div>
@@ -48,20 +51,28 @@
             <button id="hamburger-toggle" aria-label="Toggle menu">
               ☰
             </button>
+            <nav class="page-menu">
+              <ul>
+                <li><a href="../">What am I thinking?</a></li>
+                <li><a href="../about/" class="{{ 'active' if '/about/' in currentUrl }}">Why me?</a></li>
+                <li><a href="../blog/" class="{{ 'active' if '/blog/' in currentUrl }}">Diary</a></li>
+                <li><a href="../contact/" class="{{ 'active' if '/contact/' in currentUrl }}">Contact</a></li>
+              </ul>
+            </nav>
 
 
           </div>
         </div>
-        <div class="page-nav">
-          <nav id="hamburger-menu" class="collapsed">
-            <ul>
-              <li><a href="../">What am I thinking?</a></li>
-              <li><a href="../about/" class="{{ 'active' if '/about/' in currentUrl }}">Why me?</a></li>
-              <li><a href="../blog/" class="{{ 'active' if '/blog/' in currentUrl }}">Diary</a></li>
-              <li><a href="../contact/" class="{{ 'active' if '/contact/' in currentUrl }}">Contact</a></li>
-            </ul>
-          </nav>
-        </div>
+      </div>
+      <div class="page-nav">
+        <nav id="hamburger-menu" class="collapsed">
+          <ul>
+            <li><a href="../">What am I thinking?</a></li>
+            <li><a href="../about/" class="{{ 'active' if '/about/' in currentUrl }}">Why me?</a></li>
+            <li><a href="../blog/" class="{{ 'active' if '/blog/' in currentUrl }}">Diary</a></li>
+            <li><a href="../contact/" class="{{ 'active' if '/contact/' in currentUrl }}">Contact</a></li>
+          </ul>
+        </nav>
       </div>
     </div>
   </header>
@@ -89,7 +100,8 @@
 
 
   <footer>
-    <p>&copy; {{ 'now' | date('Y') }} Ian Allan Vote</p>
+    <p>&copy; {{ 'now' | date('Y') }} Ian Allan 2025. All Rights Reserved.</p>
+    <p>Authorised by Ian Allan, <a href="mailto:ian.allan.nz@gmail.com">ian.allan.nz@gmail.com</a>.</p>
   </footer>
 </body>
 

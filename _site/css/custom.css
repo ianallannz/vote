@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&display=swap');
 
 :root {
-  --primary-color: #2c3e50;
+  --primary-color: #172533;
   --accent-color: #F89628;
   --text-color: #111;
   --text-link-color: #2300EB;
@@ -248,18 +248,27 @@ h3 {
 }
 
 .page-left-column {
-  padding: 0.5rem 1.5rem 1rem 1.5rem; /* Just in case, override defaults */
+  padding: 0.5rem 1.5rem 3.5rem 1.5rem; /* Just in case, override defaults */
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: left;
   height: 100%;
+  background-image: url("../images/me.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: right;  
+}
+
+.no-bg {
+  background-image: none !important;
 }
 
 .page-right-column {
-  padding: 0.5rem 1.5rem 1rem 0.5rem; /* Just in case, override defaults */
+  padding: 1.5rem 1.5rem 1rem 0.5rem; /* Just in case, override defaults */
   display: flex;
-  justify-content: center;
+  flex-direction: column;
+  justify-content: flex-start;
   align-items: right;
   padding-top: 0rem;
 }
@@ -337,10 +346,12 @@ h3 {
 
 
 
-
+.page-menu {
+  display: none;
+}
 
 #hamburger-toggle {
-  margin-top: 0.5rem;
+  margin-top: 1rem;
   font-size: 1.5rem;
   background: none;
   border: none;
@@ -390,13 +401,16 @@ nav li {
   pointer-events: none;
   width: 100%;
   height: 80px;
-  margin-top: -80px;
+  margin-top: -120px;
   background-image: url('../images/angle-divider.svg'); /* your SVG file path */
   background-repeat: no-repeat;
   background-size: 100% 100%; /* stretch to fill both width and height */
   background-position: center;
 }
 
+.divider-shifted {
+  margin-top: -60px !important;
+}
 
 
 
@@ -483,6 +497,18 @@ footer {
   padding: 2rem;
   background-color: var(--primary-color);
   color: white;
+  font-size: 0.7rem;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  line-height: 1.2;
+}
+
+footer p a {
+  color: white;
+  text-decoration: none;
+}
+footer p a:hover {
+  text-decoration: underline;
 }
 
 
@@ -530,8 +556,8 @@ h3 {
   display: flex;
   justify-content: flex-end;
   align-items: center;
-  padding: 5px;
-  height: 40px;
+  padding: 4px;
+  height: 36px;
 }
 
 .bottom-wrapper {
@@ -703,6 +729,190 @@ h3 {
 .waitright {
   display: flex;
 }
+
+
+
+
+
+
+
+
+.page-top-row {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 4px;
+  height: 36px;
+}
+
+
+
+.page-bottom-wrapper {
+  display: flex;
+  justify-content: center;
+  padding: 0;
+}
+
+.page-bottom-row {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  max-width: 1024px; /* typical laptop breakpoint */
+  width: 100%;
+  padding: 0;
+}
+
+.page-left-column {
+  padding: 2rem; /* Just in case, override defaults */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: left;
+  height: 100%;
+  background-image: url("../images/me.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: right;  
+}
+
+.page-right-column {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: flex-end;
+  padding-top: 2rem;
+}
+
+
+
+
+.page-menu {
+  display: block;
+  font-family: 'Inter', sans-serif;
+  font-weight: 600;
+  letter-spacing: -0.051rem;
+  font-size: 1.2rem;
+  padding: 2rem 1.5rem 0.5rem 1.5rem;
+}
+
+.page-menu ul li {
+  display: inline;
+  padding: 0.2rem 0.0rem 0.2rem 1rem; 
+}
+
+.page-menu ul li a {
+  text-decoration: none;
+}
+
+.page-menu ul li a:hover {
+  color: var(--accent-color);
+  text-decoration: underline;
+}
+
+.page-menu ul li a.active {
+  color: var(--text-color);
+  text-decoration: none;
+}
+
+
+
+
+
+#hamburger-toggle {
+  display:none;
+}
+
+#hamburger-menu {
+  display: none;
+  overflow: hidden;
+  max-height: 0;
+  transition: max-height 0.3s ease-out;
+}
+
+#hamburger-menu.expanded {
+  max-height: 300px; /* Adjust based on menu height */
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  padding-bottom: 1.5rem;
+}
+
+nav li {
+  padding: 0.5rem 0;
+}
+
+
+
+
+.page-angle-divider {
+  position: relative;
+  pointer-events: none;
+  width: 100%;
+  height: 140px;
+  margin-top: -120px;
+  background-image: url('../images/angle-divider.svg'); /* your SVG file path */
+  background-repeat: no-repeat;
+  background-size: 100% 100%; /* stretch to fill both width and height */
+  background-position: center;
+}
+
+
+
+
+
+
+.page-content {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  padding: 0;
+  width: 100%;
+  margin-top: -20px;
+  background-color: #FFFFFF;
+}
+
+.pc-container {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  max-width: 1024px; /* typical laptop breakpoint */
+  width: 100%;
+  padding: 0;
+}
+
+.pc-left {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: left;
+}
+
+.pc-left p {
+  margin-left: 0.8rem;
+  padding: 0.3rem 0rem 0.8rem 1rem;
+  line-height: 1.8rem;
+  font-size: 1.2rem;
+
+}
+.pc-right {
+  display: flex;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 /* Footer */
