@@ -94,7 +94,7 @@ h3 {
 }
 
 .left-column {
-  padding: 2rem 1.5rem 1rem 1.5rem; /* Just in case, override defaults */
+  padding: 2rem 1.5rem 0rem 1.5rem; /* Just in case, override defaults */
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -156,9 +156,25 @@ h3 {
 
 }
 
+.hero-cta-sub {
+  padding-top: 1.3rem;
+  font-size: 1rem;
+  line-height: 1.4rem;
+  font-weight: 600;
+  letter-spacing: -0.051rem;
+  font-family: 'Inter', sans-serif;
+
+}
+
 .hero-cta a {
   color: var(--text-link-color);
   text-decoration: underline;
+}
+
+.hero-cta-sub a {
+  color: var(--text-link-color);
+  text-decoration: underline;
+  padding-right: 20px;
 }
 
 .hero-nav {
