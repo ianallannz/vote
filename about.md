@@ -5,9 +5,12 @@ title: About
 
 ## Why me?
 
-At 48, my heart’s on my sleeve and my head’s screwed on. 
+### Heart on sleeve, head screwed on 
 
-This isn’t about a single issue; it’s about a new abundance built on place, not things. 
+**At 48, I have the ideal balance of enthusiasm and lived experience.**
+
+I sit between three young children (10, 7, and 2) and elderly parents. My decision-making is for our rangatahi, giving peace-of-mind to our elderly.
+
 
 A place where richness comes from local pride, time outdoors, helping each other, and energising work in useful industries. An insulated place that’s worth staying in and returning to. 
 
