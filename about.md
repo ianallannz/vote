@@ -3,18 +3,30 @@ layout: layouts/layout.njk
 title: About
 ---
 
-## Why me?
+## Heart on sleeve, head screwed on
+
+> We should vote for values eh? Because, try as we might, you just don't know every decision we're asked to make.
+
+**If you can see how the values in my story can take us in the right direction, please give one of your votes to me, Ian Allan.**
+
+### Enthusiasm with lived experience
+
+At 48, I bring the right balance of enthusiasm and lived experience.
+
+With a storied professional career, I now sit between three young children (10, 7, and 2) and elderly parents. 
+
+My decision-making is for our rangatahi, to give peace-of-mind to our elderly.
+
+
+### Compassion, sacrifice, hard work
+
+Born and raised here by proud parents Derek and Moira-Jean, I'm rooted in compassion, sacrifice, and hard work. 
+
+If watching how my dad ran J.S. Allan's didn't instil it, maybe it was us doing things that needed doing for others; from stocking 'copters in Bola, stacking wood, reflecting in church, to fixing over replacing.
 
 ### Heart on sleeve, head screwed on 
 
-**At 48, I have the ideal balance of enthusiasm and lived experience.**
-
-I sit between three young children (10, 7, and 2) and elderly parents. My decision-making is for our rangatahi, giving peace-of-mind to our elderly.
-
-
-A place where richness comes from local pride, time outdoors, helping each other, and energising work in useful industries. An insulated place that’s worth staying in and returning to. 
-
-Born and raised here by proud parents Derek and Moira-Jean, I'm rooted in compassion, sacrifice, and hard work. My early working years were alongside teachers, shaping my politics for fairness, care, and high expectations. 
+My early working years were alongside teachers, shaping my politics for fairness, care, and high expectations. 
 
 Then a long intense private-sector career developed, solving hard problems in tough corners of the world with loyalty, strategic thinking, and commercial acumen. 
 
