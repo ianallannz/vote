@@ -13,7 +13,7 @@ If you can see how the values and competence in my story take us in the right di
 
 At 48, I bring the right balance of enthusiasm and lived experience.
 
-After a storied <a href="https://www.linkedin.com/in/ianallan/" target="_blank" title="You can find some more detail on my LinkedIn">professional career <img src="../images/li-icon.png" style="width:1.2rem; padding-right: 4px;"></a> I now sit between three young children (10, 7, and 2) and elderly parents. 
+After a storied <a href="https://www.linkedin.com/in/ianallan/" target="_blank" title="You can find all the details on my LinkedIn">professional career</a> <a href="https://www.linkedin.com/in/ianallan/" target="_blank" title="You can find all the details on my LinkedIn"><img src="../images/li-icon.png" style="width:1.2rem; padding-right: 4px;"></a> I now sit between three young children (10, 7, and 2) and elderly parents. 
 
 **My decision-making is for our rangatahi, to give peace-of-mind to our elderly.**
 
@@ -33,11 +33,11 @@ After a bloody hard degree in computing and mathematical sciences, my early work
 
 I shifted gear into a wild private-sector career in technology, working with hi-tech capital-intensive startups and colossal mobile operators, banks, and conglomerates across Africa and South-east Asia. 
 
-With mad loyalty to the cause, I have produced solutions to hard problems in the toughest corners of the world for the most under-served communities. These solutions were packaged, pitched, and proposed with resourcefulness, commercial ingenuity, strategic thinking, and stakeholder nous.
+With mad loyalty, I have produced solutions to hard problems in the toughest corners of the world for the most under-served communities. These solutions were packaged, pitched, and proposed with resourcefulness, commercial ingenuity, strategic thinking, and stakeholder nous.
 
 **My skills preparing commercial deals with revenue sharing, incentivised efficiency, forward investment, and shared risk now neatly apply to meaty problems at the council table.**
 
-You can dig into the detail on my <a href="https://www.linkedin.com/in/ianallan/" target="_blank" title="You can find some more detail on my LinkedIn">LinkedIn <img src="../images/li-icon.png" style="width:1.2rem; padding-right: 4px;"></a>.
+You can dig into the detail on my<a href="https://www.linkedin.com/in/ianallan/" target="_blank" title="You can find all the details on my LinkedIn">LinkedIn</a> <a href="https://www.linkedin.com/in/ianallan/" target="_blank" title="You can find all the details on my LinkedIn"><img src="../images/li-icon.png" style="width:1.2rem; padding-right: 4px;"></a>.
 
 ### Keen observer and listener
 
@@ -59,10 +59,10 @@ Being isolated makes us a bit special out here. Local industries love hiring ded
 
 To round things off, here's how I see the world; the things that deep down you probably know to be true but the incentives in the system, and what you're told isn't possible, makes you try to believe otherwise:
 
-- Critical thinking means being the most critical of your own thinking - "strong opinions, weakly held".
-- The economy is a subset of the environment.
+- Critical thinking means being the most critical of your own thinking.
+- The economy is a subset of our environment.
 - Biodiversity loss *really* matters.
-- Negative externalities need to be built into the cost of doing business.
+- Negative externalities need to be built into the cost.
 - Living conditions will keep getting worse unless we address rapidly increasing inequality; it’s not about envy, it’s about a civil society.
 - The pursuit of things never satisfies, but it's hard to know when it's enough.
 - Social media and gaming are net-negatives to society and we must break free.
