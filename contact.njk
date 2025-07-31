@@ -1,0 +1,27 @@
+---
+layout: layouts/layout.njk
+title: Contact
+---
+
+<h2>What are <em>you</em> thinking?</h2>
+<p>If you want to tell me what you're thinking, or you want to hear more about what I'm thinking, or you want to help me out, then I'd love to hear from you.</p>
+<div class="form-container">
+  <form target="_blank" action="https://formsubmit.co/ian.allan.nz@gmail.com" method="POST">
+    <div class="form-group">
+      <div class="form-row">
+        <div class="col">
+          <input type="text" name="name" class="form-control" placeholder="Full name" required>
+        </div>
+        <div class="col">
+          <input type="email" name="email" class="form-control" placeholder="Email address" required>
+        </div>
+      </div>
+    </div>
+    <div class="form-full">
+      <textarea placeholder="Your message" class="form-control" name="message" rows="10" required></textarea>
+    </div>
+    <input type="hidden" name="_subject" value="Message received through ianallan.vote">
+    <input type="hidden" name="_next" value="https://ianallan.vote/thanks/">
+    <button type="submit" class="btn btn-lg btn-dark btn-block">Send your message</button>
+  </form>
+</div>
