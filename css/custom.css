@@ -630,6 +630,17 @@ i.fab {
   font-size: 1.2rem;
 
 }
+
+.wait-left p a {
+  color: var(--text-link-color);
+  text-decoration: underline;
+}
+
+.wait-left p a:hover {
+  color: var(--accent-color);
+  text-decoration: none;
+}
+
 .waitright {
   display: flex;
 }
@@ -888,6 +899,7 @@ h3 {
   font-size: 1.2rem;
 
 }
+
 .waitright {
   display: flex;
 }
