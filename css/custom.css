@@ -511,7 +511,14 @@ nav li {
   display: flex;
 }
 
+i.fab {
+  font-weight: 400;
+}
 
+.fab.fa-linkedin {
+  font-size: 24px;
+  color: #0077b5;
+}
 
 .form-container {
   line-height: 1.8rem;
