@@ -35,7 +35,7 @@ I shifted gear into a wild private-sector career in technology, working with hi-
 
 With mad loyalty to the cause, I have produced solutions to hard problems in the toughest corners of the world for the most under-served communities. These solutions were packaged, pitched, and proposed with resourcefulness, commercial ingenuity, strategic thinking, and stakeholder nous.
 
-**My skills proposing commercial deals with revenue sharing, incentivised efficiency and forward investment, and shared risk now neatly apply to meaty problems at the council table.**
+**My skills preparing commercial deals with revenue sharing, incentivised efficiency, forward investment, and shared risk now neatly apply to meaty problems at the council table.**
 
 You can dig into the detail on my <a href="https://www.linkedin.com/in/ianallan/" target="_blank" title="You can find some more detail on my LinkedIn">LinkedIn <img src="../images/li-icon.png" style="width:1.2rem; padding-right: 4px;"></a>.
 
@@ -49,14 +49,27 @@ I'm not partisan; good ideas can come from anywhere.
 
 ### Higher learning 
 
-About four years or so ago we returned to Gisborne with our (now) three children. In that time I've had the privilege of using my professional experiences to guide local adult learners from all walks of life. 
+About four years ago we returned to Gisborne with our children. In that time I've had the privilege of using my professional experiences to guide local adult learners from all walks of life. 
 
 Being isolated makes us a bit special out here. Local industries love hiring dedicated local experts &mdash; imports don't often get the vibe of the place &mdash; but we need to train a *lot* more of them. 
 
 **I have become a staunch advocate for keeping and growing strong higher education pathways here.**
 
+### Radical common sense
+
+To round things off, here's how I see the world; the things that deep down you probably know to be true but the incentives in the system, and what you're told isn't possible, makes you try to believe otherwise:
+
+- Critical thinking means being the most critical of your own thinking - "strong opinions, weakly held".
+- The economy is a subset of the environment.
+- Biodiversity loss *really* matters.
+- Negative externalities need to be built into the cost of doing business.
+- Living conditions will keep getting worse unless we address rapidly increasing inequality; it’s not about envy, it’s about a civil society.
+- The pursuit of things never satisfies, but it's hard to know when it's enough.
+- Social media and gaming are net-negatives to society and we must break free.
+- I'm Tangata Tiriti; I belong here because of te Tiriti o Waitangi.
+
 ### So that's some of me
 
 If you made it this far, thank you! Which means there's only one thing left to do: 
 
->**Please give me, Ian Allan, your vote to represent you and your values on the Gisborne District Council!**
+>**Please give me, Ian Allan, your vote to represent our shared values on the Gisborne District Council!**
