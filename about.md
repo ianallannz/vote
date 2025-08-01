@@ -37,7 +37,7 @@ With mad loyalty, I have produced solutions to hard problems in the toughest cor
 
 **My skills preparing commercial deals with revenue sharing, incentivised efficiency, forward investment, and shared risk now neatly apply to meaty problems at the council table.**
 
-You can dig into the detail on my<a href="https://www.linkedin.com/in/ianallan/" target="_blank" title="You can find all the details on my LinkedIn">LinkedIn</a> <a href="https://www.linkedin.com/in/ianallan/" target="_blank" title="You can find all the details on my LinkedIn"><img src="../images/li-icon.png" style="width:1.2rem; padding-right: 4px;"></a>.
+You can dig into the detail on my <a href="https://www.linkedin.com/in/ianallan/" target="_blank" title="You can find all the details on my LinkedIn">LinkedIn</a> <a href="https://www.linkedin.com/in/ianallan/" target="_blank" title="You can find all the details on my LinkedIn"><img src="../images/li-icon.png" style="width:1.2rem; padding-right: 4px;"></a>.
 
 ### Keen observer and listener
 
