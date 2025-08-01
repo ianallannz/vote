@@ -25,9 +25,9 @@ If watching my father run J.S. Allan's didn't instil it, maybe it was us just do
 
 ### Fairness, care, high expectations 
 
-After a bloody hard degree in computing and mathematical sciences, my early working years were alongside teachers. It has shaped my deepest political value: fairness. 
+After dux at school and a bloody hard degree in computing and mathematical sciences, my early working years were alongside teachers. It has shaped my deepest political value: fairness. 
 
-**In life, combining a fair go, high expectations, and supporting those in our care to go beyond the possible, is what it's all about.**
+**Combining a fair go, high expectations, and supporting those in our care to go beyond the possible is what it's all about.**
 
 ### Loyalty, strategic thinking, commercial acumen
 
@@ -35,7 +35,7 @@ I shifted gear into a wild private-sector career in technology, working with hi-
 
 With mad loyalty, I have produced solutions to hard problems in the toughest corners of the world for the most under-served communities. These solutions were packaged, pitched, and proposed with resourcefulness, commercial ingenuity, strategic thinking, and stakeholder nous.
 
-**My skills preparing commercial deals with revenue sharing, incentivised efficiency, forward investment, and shared risk now neatly apply to meaty problems at the council table.**
+**My skills preparing commercial deals with revenue sharing, incentivised efficiency, forward investment, and shared risk neatly apply to meaty problems at the council table.**
 
 You can dig into the detail on my <a href="https://www.linkedin.com/in/ianallan/" target="_blank" title="You can find all the details on my LinkedIn">LinkedIn</a> <a href="https://www.linkedin.com/in/ianallan/" target="_blank" title="You can find all the details on my LinkedIn"><img src="../images/li-icon.png" style="width:1.2rem; padding-right: 4px;"></a>.
 
@@ -49,7 +49,7 @@ I'm not partisan; good ideas can come from anywhere.
 
 ### Higher learning 
 
-About four years ago we returned to Gisborne with our children. In that time I've had the privilege of using my professional experiences to guide local adult learners from all walks of life. 
+About four years ago we returned to Gisborne with our children. In that time I've had the privilege of using my professional experience to guide local adult learners from all walks of life. 
 
 Being isolated makes us a bit special out here. Local industries love hiring dedicated local experts &mdash; imports don't often get the vibe of the place &mdash; but we need to train a *lot* more of them. 
 
@@ -63,7 +63,7 @@ To round things off, here's how I see the world; the things that deep down you p
 - The economy is a subset of our environment.
 - Biodiversity loss *really* matters.
 - Negative externalities need to be built into the cost.
-- Our economic system is not only making ordinary working families poorer, but it's making our governments poorer too; if we don't blunt its hard edges it will just get worse and worse.
+- Our economic system is not only making most families poorer, but it's making our governments poorer too; if we don't blunt the hard edges it will just get worse and worse.
 - The pursuit of things never satisfies, but it's hard to know when it's enough.
 - Social media and gaming are net-negatives to society and we must break free.
 - I'm Tangata Tiriti; I belong here because of te Tiriti o Waitangi.
