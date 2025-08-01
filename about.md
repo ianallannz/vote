@@ -63,7 +63,7 @@ To round things off, here's how I see the world; the things that deep down you p
 - The economy is a subset of our environment.
 - Biodiversity loss *really* matters.
 - Negative externalities need to be built into the cost.
-- Living conditions will keep getting worse unless we address rapidly increasing inequality; it’s not about envy, it’s about a civil society.
+- Our economic system is not only making ordinary working families poorer, but it's making our governments poorer too; if we don't blunt its hard edges it will just get worse and worse.
 - The pursuit of things never satisfies, but it's hard to know when it's enough.
 - Social media and gaming are net-negatives to society and we must break free.
 - I'm Tangata Tiriti; I belong here because of te Tiriti o Waitangi.
