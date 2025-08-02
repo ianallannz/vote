@@ -641,6 +641,15 @@ i.fab {
   text-decoration: none;
 }
 
+.wait-left ul {
+  margin-left: 3rem;
+  padding: 0.3rem 0rem 0.6rem 0.8rem;
+  line-height: 1.8rem;
+  font-size: 1.2rem;
+
+}
+
+
 .waitright {
   display: flex;
 }
