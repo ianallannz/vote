@@ -84,6 +84,31 @@ blockquote {
   margin: 0;
 }
 
+.enrol-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 4px;
+  height: 36px;
+  background-color:#F89628;
+  border-bottom: 1px solid rgba(0,0,0,0.1);
+}
+
+.enrol-content p {
+  font-size: 1.0rem;
+  font-family: 'Inter', sans-serif;
+  font-weight: 500;
+}
+
+.enrol-content a {
+  color: #FFFFFF;
+  text-decoration: underline;
+}
+
+.enrol-content a:hover {
+  text-decoration: none;
+}
+
 .top-row {
   display: flex;
   justify-content: center;
@@ -495,6 +520,16 @@ nav li {
   line-height: 1.8rem;
   font-size: 1.2rem;
 
+}
+
+.pc-left img {
+  width: 100%;
+}
+
+.pc-left img.sunshine {
+  width: 130px;
+  float: left;
+  padding-right: 0.7rem;
 }
 
 .pc-left ul {
