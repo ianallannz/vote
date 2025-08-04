@@ -7,8 +7,6 @@ title: About
 
 > We should **vote for values and competence** eh? Because, try as we might, you just don't know every decision we're asked to make.
 
-If you can see how the values and competence in my story take us in the right direction, **please give a vote to me, Ian Allan**.
-
 ### Enthusiasm and lived experience
 
 At 48, I bring the right balance of enthusiasm and lived experience.
