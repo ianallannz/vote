@@ -86,4 +86,3 @@ If you made it this far, thank you! Which means there's only one thing left to d
 
 >**Please give me, Ian Allan, your vote to represent our shared values on the Gisborne District Council!**
 
-{{ page.date }}
