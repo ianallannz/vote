@@ -85,3 +85,5 @@ Being isolated makes us a bit special out here. Local industries love hiring ded
 If you made it this far, thank you! Which means there's only one thing left to do: 
 
 >**Please give me, Ian Allan, your vote to represent our shared values on the Gisborne District Council!**
+
+{{ page.date }}

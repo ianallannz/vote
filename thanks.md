@@ -1,6 +1,7 @@
 ---
 layout: layouts/layout.njk
 title: Thanks
+eleventyExcludeFromCollections: true
 ---
 
 ## Thanks!
