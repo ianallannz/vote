@@ -27,7 +27,7 @@ If watching my father run J.S. Allan's didn't instil it, maybe it was us just do
 
 ### Fairness, care, high expectations {#fairness}
 
-After dux at college and a bloody hard degree in computing and mathematical sciences, my early working years were alongside teachers. It has shaped my deepest political value: fairness. 
+After dux at school and a bloody hard degree in computing and mathematical sciences, my early working years were alongside teachers. It has shaped my deepest political value: fairness. 
 
 **Combining a fair go, high expectations, and supporting those in our care to go beyond the possible is what it's all about.**
 
