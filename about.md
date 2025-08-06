@@ -7,7 +7,7 @@ title: About
 
 > We should **vote for values and competence** eh? Because, try as we might, you just don't know every decision we're asked to make.
 
-### Enthusiasm and lived experience
+### Enthusiasm and lived experience {#enthusiasm-experience}
 
 At 48, I bring the right balance of enthusiasm and lived experience.
 
@@ -17,7 +17,7 @@ After a storied <a href="https://www.linkedin.com/in/ianallan/" target="_blank" 
 
 ![Rangatahi](../images/mandtandm.jpg)
 
-### Compassion, sacrifice, hard work
+### Compassion, sacrifice, hard work {#compassion}
 
 Born and raised here by proud parents Derek and Moira-Jean, I'm rooted in compassion, sacrifice, and hard work. 
 
@@ -25,7 +25,7 @@ Born and raised here by proud parents Derek and Moira-Jean, I'm rooted in compas
 
 If watching my father run J.S. Allan's didn't instil it, maybe it was us just doing things that needed doing for others; from stocking helicopters during Bola, stacking wood, reflecting in church, fixing instead of replacing, to representing "Poverty Bay".
 
-### Fairness, care, high expectations 
+### Fairness, care, high expectations {#fairness}
 
 After dux at college and a bloody hard degree in computing and mathematical sciences, my early working years were alongside teachers. It has shaped my deepest political value: fairness. 
 
@@ -33,7 +33,7 @@ After dux at college and a bloody hard degree in computing and mathematical scie
 
 ![Strikers winning the Gillies Cup!](../images/strikers-gillies.jpg)
 
-### Loyalty, strategic thinking, commercial acumen
+### Loyalty, strategic thinking, commercial acumen {#commercial-acumen}
 
 I shifted gear into a wild private-sector career in technology, working with hi-tech capital-intensive startups and colossal mobile operators, banks, and conglomerates across Africa and South-east Asia. 
 
@@ -47,7 +47,7 @@ These solutions were packaged, pitched, and proposed with deep stakeholder under
 
 You can dig into the detail on my <a href="https://www.linkedin.com/in/ianallan/" target="_blank" title="You can find all the details on my LinkedIn">LinkedIn</a> <a href="https://www.linkedin.com/in/ianallan/" target="_blank" title="You can find all the details on my LinkedIn"><img src="../images/li-icon.png" style="width:1.2rem; padding-right: 4px;"></a>.
 
-### Keen observer and listener
+### Keen observer and listener {#keen-observer}
 
 My success as a keen observer and listener in my professional career continued when we lived on the road throughout New Zealand for a year in a family caravan.
 
@@ -57,7 +57,7 @@ I'm not partisan; good ideas can come from anywhere.
 
 **I've seen where it can be done better: from leveraging strengths, to cycle paths, to hubs for resource re-use.**
 
-### Higher learning 
+### Higher learning {#higher-learning}
 
 About four years ago we returned to Gisborne with our children. In that time I've had the privilege of using my professional experience to guide local adult learners from all walks of life. 
 
@@ -67,7 +67,7 @@ Being isolated makes us a bit special out here. Local industries love hiring ded
 
 **I have become a staunch advocate for keeping and growing strong higher education pathways here.**
 
-### Radical common sense
+### Radical common sense {#radical-common-sense}
 
 <img src="../images/ian-sunshine.jpg" class="sunshine">To round things off, here's how I see the world; the things that deep down you probably know to be true but the incentives in the system, and what you're told isn't possible, makes you try to believe otherwise:
 

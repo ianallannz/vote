@@ -1,9 +1,11 @@
 const sitemap = require("@quasibit/eleventy-plugin-sitemap");
+const markdownIt = require("markdown-it");
+const markdownItAnchor = require("markdown-it-anchor");
+const markdownItAttrs = require("markdown-it-attrs");
 
-
-module.exports = function(eleventyConfig) {
+module.exports = function (eleventyConfig) {
   // Add date filter
-  eleventyConfig.addFilter("date", function(dateObj, format) {
+  eleventyConfig.addFilter("date", function (dateObj, format) {
     if (!dateObj) return "";
     const date = new Date(dateObj);
     if (isNaN(date.getTime())) return "";
@@ -15,11 +17,11 @@ module.exports = function(eleventyConfig) {
   });
 
   eleventyConfig.addFilter("dateISO", dateObj => {
-  if (!dateObj) return "";
-  const date = new Date(dateObj);
-  if (isNaN(date.getTime())) return "";
-  return date.toISOString();
-});
+    if (!dateObj) return "";
+    const date = new Date(dateObj);
+    if (isNaN(date.getTime())) return "";
+    return date.toISOString();
+  });
 
   eleventyConfig.addPlugin(sitemap, {
     sitemap: {
@@ -27,6 +29,11 @@ module.exports = function(eleventyConfig) {
     },
   });
 
+  const markdownLib = markdownIt({ html: true })
+    .use(markdownItAnchor)
+    .use(markdownItAttrs);
+
+  eleventyConfig.setLibrary("md", markdownLib);
 
   // Copy directories
   eleventyConfig.addPassthroughCopy("css");

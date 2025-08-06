@@ -25,6 +25,33 @@ document.getElementById("nativeShare").addEventListener("click", async (e) => {
 });
 
 
+
+document.addEventListener("DOMContentLoaded", () => {
+  const sections = document.querySelectorAll("section[id]");
+  const navLinks = document.querySelectorAll(".wait-right ul li a");
+
+  const observer = new IntersectionObserver(
+    entries => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          const id = entry.target.getAttribute("id");
+
+          navLinks.forEach(link => {
+            link.classList.toggle("active", link.getAttribute("href") === `#${id}`);
+          });
+        }
+      });
+    },
+    {
+      rootMargin: "0px 0px -70% 0px", // triggers when section top is ~30% from top
+      threshold: 0
+    }
+  );
+
+  sections.forEach(section => observer.observe(section));
+});
+
+
 document.getElementById('hamburger-toggle').addEventListener('click', () => {
   const menu = document.getElementById('hamburger-menu');
   const leftColumn = document.querySelector('.page-left-column');
