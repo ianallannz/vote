@@ -16,6 +16,7 @@
   },
   "dependencies": {
     "@quasibit/eleventy-plugin-sitemap": "^2.2.0",
+    "jsdom": "^26.1.0",
     "luxon": "^3.7.1",
     "markdown-it": "^14.1.0",
     "markdown-it-anchor": "^9.2.0",

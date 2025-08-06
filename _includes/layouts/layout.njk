@@ -1,5 +1,5 @@
 {% set currentUrl = page.url %}
-
+{% set headings = content | safe | extractHeadings %}
 <!doctype html>
 <html lang="en">
 
@@ -96,7 +96,14 @@
 
       </div>
       <div class="pc-right">
-
+       <h4>{{ title }}</h4> 
+        <ul>
+          {% for heading in headings %}
+            <li>
+              <a href="#{{ heading.id }}">{{ heading.text }}</a>
+            </li>
+          {% endfor %}
+        </ul>
       </div>
 
     </div>

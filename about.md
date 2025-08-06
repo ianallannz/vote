@@ -1,6 +1,6 @@
 ---
 layout: layouts/layout.njk
-title: About
+title: My values and competence
 ---
 
 ## Heart on sleeve, head screwed on
@@ -80,9 +80,11 @@ Being isolated makes us a bit special out here. Local industries love hiring ded
 - Social media and gaming are net-negatives to society and we must break free.
 - I'm Tangata Tiriti; I belong here because of te Tiriti o Waitangi.
 
-### So that's some of me
+**So that's me.**
 
-If you made it this far, thank you! Which means there's only one thing left to do: 
+If you made it this far, thank you! 
+
+There's only one thing left to do: 
 
 >**Please give me, Ian Allan, your vote to represent our shared values on the Gisborne District Council!**
 

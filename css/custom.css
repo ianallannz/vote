@@ -552,7 +552,7 @@ nav li {
 }
 
 .pc-right {
-  display: flex;
+  display: none;
 }
 
 i.fab {
@@ -689,9 +689,6 @@ i.fab {
   display:none;
 }
 
-.wait-right ul {
-  display: none;
-}
 
 /* Footer */
 footer {
@@ -982,13 +979,13 @@ h3 {
 
 .wait-right ul li a {
   color: var(--text-link-color);
-  text-decoration: underline;
+  text-decoration: none;
 
 }
 
 .wait-right ul li a:hover {
   color: var(--accent-color);
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 .wait-right ul li a.active {
@@ -1162,7 +1159,54 @@ nav li {
   display: flex;
 }
 
+.pc-right {
+  display: block;
+  position: sticky;
+  top: 0rem;
+  font-family: "Inter", sans-serif;
+  padding-top: 4.7rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  align-self: start;
+}
 
+.pc-right h4 {
+  padding: 0.8rem 0.6rem 0.4rem 0.6rem;
+  line-height: 1.4rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+.pc-right ul {
+  display: block;
+}
+
+.pc-right ul li {
+  padding: 0.8rem 0.6rem 0.8rem 0.6rem;
+  line-height: 1.4rem;
+  font-size: 1.1rem;
+  list-style-type: none;
+}
+
+.pc-right ul li + li {
+  border-top: 1px solid rgba(0,0,0,0.1);
+}
+
+.pc-right ul li a {
+  color: var(--text-link-color);
+  text-decoration: none;
+
+}
+
+.pc-right ul li a:hover {
+  color: var(--accent-color);
+  text-decoration: underline;
+}
+
+.pc-right ul li a.active {
+  color: var(--text-color);
+  text-decoration: none;
+}
 
 
 

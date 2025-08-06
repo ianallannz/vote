@@ -27,8 +27,8 @@ document.getElementById("nativeShare").addEventListener("click", async (e) => {
 
 
 document.addEventListener("DOMContentLoaded", () => {
-  const sections = document.querySelectorAll("section[id]");
-  const navLinks = document.querySelectorAll(".wait-right ul li a");
+  const headings = document.querySelectorAll("h2[id], h3[id]");
+  const navLinks = document.querySelectorAll(".wait-right ul li a, .pc-right ul li a");
 
   const observer = new IntersectionObserver(
     entries => {
@@ -48,7 +48,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   );
 
-  sections.forEach(section => observer.observe(section));
+  headings.forEach(h => observer.observe(h));
 });
 
 

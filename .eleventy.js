@@ -2,6 +2,7 @@ const sitemap = require("@quasibit/eleventy-plugin-sitemap");
 const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
 const markdownItAttrs = require("markdown-it-attrs");
+const { JSDOM } = require("jsdom");
 
 module.exports = function (eleventyConfig) {
   // Add date filter
@@ -27,6 +28,20 @@ module.exports = function (eleventyConfig) {
     sitemap: {
       hostname: "https://ianallan.vote",
     },
+  });
+
+eleventyConfig.addFilter("extractHeadings", content => {
+    const dom = new JSDOM(content);
+
+    const headings = [...dom.window.document.querySelectorAll("h2, h3")]
+      .filter(h => h.id) // explicitly exclude headings without IDs
+      .map(h => ({
+        id: h.id,
+        text: h.textContent,
+        level: h.tagName.toLowerCase()
+      }));
+
+    return headings;
   });
 
   const markdownLib = markdownIt({ html: true })
