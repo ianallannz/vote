@@ -11,7 +11,7 @@ title: My values and competence
 
 At 48, I bring the right balance of enthusiasm and lived experience.
 
-After a storied <a href="https://www.linkedin.com/in/ianallan/" target="_blank" title="You can find all the details on my LinkedIn">professional career</a> <a href="https://www.linkedin.com/in/ianallan/" target="_blank" title="You can find all the details on my LinkedIn"><img src="../images/li-icon.png" style="width:1.2rem; padding-right: 4px;"></a> I now sit between three young children (10, 7, and 2) and elderly parents. 
+After a storied <a href="https://www.linkedin.com/in/ianallan/" target="_blank" title="You can find all the details on my LinkedIn">professional career</a> <a href="https://www.linkedin.com/in/ianallan/" target="_blank" title="You can find all the details on my LinkedIn"><img src="../images/li-icon.png" style="width:1.2rem; padding-right: 4px;"></a> I now sit between three young children and elderly parents. 
 
 **My decision-making is for our rangatahi, to give peace-of-mind to our elderly.**
 
