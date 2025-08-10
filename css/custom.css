@@ -524,12 +524,13 @@ nav li {
 
 .pc-left img {
   width: 100%;
+  border-radius: 1rem;
 }
 
 .pc-left img.sunshine {
   width: 130px;
   float: left;
-  padding-right: 0.7rem;
+  margin-right: 0.7rem;
 }
 
 .pc-left ul {
