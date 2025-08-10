@@ -684,6 +684,10 @@ i.fab {
 
 }
 
+.wait-left p img {
+  width: 100%;
+  border-radius: 1rem;
+}
 
 .wait-right {
   display:none;
