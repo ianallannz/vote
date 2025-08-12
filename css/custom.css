@@ -566,6 +566,7 @@ nav li {
   text-decoration: underline;
 }
 
+
 .pc-left a:hover {
   color: var(--accent-color);
   text-decoration: none;
@@ -1222,9 +1223,20 @@ nav li {
 
 }
 
+.pc-right ul li a.page-link {
+  color: var(--text-link-color);
+  text-decoration: underline;
+
+}
+
 .pc-right ul li a:hover {
   color: var(--accent-color);
   text-decoration: underline;
+}
+
+.pc-right ul li a.page-link:hover {
+  color: var(--accent-color);
+  text-decoration: none;
 }
 
 .pc-right ul li a.active {
