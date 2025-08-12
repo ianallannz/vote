@@ -51,6 +51,25 @@ h3 {
   font-weight: 400;
 }
 
+article {
+  padding-bottom: 1rem;
+}
+article h3 {
+ background: none;
+ box-shadow: none;
+ border: none;
+ margin-top: 1.4rem;
+ margin-bottom: 0.5rem;
+ padding-bottom: 0.3rem;
+}
+article p.meta {
+  padding-top: 0rem;
+  font-style: italic;
+  font-size: 1.0rem;
+  color: #999999;
+}
+
+
 blockquote {
   padding: 0.4rem 0.8rem 0.4rem 0rem;
   margin-bottom: 0.8rem;

@@ -1,21 +1,24 @@
 {% set currentUrl = page.url %}
 {% set headings = content | safe | extractHeadings %}
+{% set posts = collections.posts | reverse %}
+
 <!doctype html>
 <html lang="en">
 
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="keywords" content="Gisborne, Council, vote, Ian, Allan, 2025, values, competence, experience, pride, care, wealth, community">
+  <meta name="keywords"
+    content="Gisborne, Council, vote, Ian, Allan, 2025, values, competence, experience, pride, care, wealth, community">
   <meta name="author" content="Ian Allan">
   <meta name="robots" content="index, follow">
 
   <title>{% if page.title %}{{ page.title }} | {% endif %}Ian Allan for Gisborne District Council</title>
-  <link rel="stylesheet" href="../css/custom.css">
-  
-  <script src="../js/custom.js" defer></script>
+  <link rel="stylesheet" href="/css/custom.css">
 
-  <link rel="icon" href="../images/favicon.png" type="image/x-icon">
+  <script src="/js/custom.js" defer></script>
+
+  <link rel="icon" href="/images/favicon.png" type="image/x-icon">
 
   <!-- Open Graph (used by Facebook, LinkedIn, etc.) -->
   <meta property="og:title"
@@ -60,10 +63,10 @@
             </button>
             <nav class="page-menu">
               <ul>
-                <li><a href="../">What am I thinking?</a></li>
-                <li><a href="../about/" class="{{ 'active' if '/about/' in currentUrl }}">Why me?</a></li>
-                <li><a href="../blog/" class="{{ 'active' if '/blog/' in currentUrl }}">Diary</a></li>
-                <li><a href="../contact/" class="{{ 'active' if '/contact/' in currentUrl }}">Contact</a></li>
+                <li><a href="/">What am I thinking?</a></li>
+                <li><a href="/about/" class="{{ 'active' if '/about/' in currentUrl }}">Why me?</a></li>
+                <li><a href="/blog/" class="{{ 'active' if '/blog/' in currentUrl }}">Diary</a></li>
+                <li><a href="/contact/" class="{{ 'active' if '/contact/' in currentUrl }}">Contact</a></li>
               </ul>
             </nav>
 
@@ -74,10 +77,10 @@
       <div class="page-nav">
         <nav id="hamburger-menu" class="collapsed">
           <ul>
-            <li><a href="../">What am I thinking?</a></li>
-            <li><a href="../about/" class="{{ 'active' if '/about/' in currentUrl }}">Why me?</a></li>
-            <li><a href="../blog/" class="{{ 'active' if '/blog/' in currentUrl }}">Diary</a></li>
-            <li><a href="../contact/" class="{{ 'active' if '/contact/' in currentUrl }}">Contact</a></li>
+            <li><a href="/">What am I thinking?</a></li>
+            <li><a href="/about/" class="{{ 'active' if '/about/' in currentUrl }}">Why me?</a></li>
+            <li><a href="/blog/" class="{{ 'active' if '/blog/' in currentUrl }}">Diary</a></li>
+            <li><a href="/contact/" class="{{ 'active' if '/contact/' in currentUrl }}">Contact</a></li>
           </ul>
         </nav>
       </div>
@@ -96,14 +99,45 @@
 
       </div>
       <div class="pc-right">
-       <h4>{{ title }}</h4> 
+        {% if isPost %}
+        <h4>Other diary entries</h4>
+        <ul>
+          {% for post in posts %}
+          {% if post.url != page.url %}
+          <li>
+            <a href="{{ post.url }}">{{ post.data.title }}</a>
+          </li>
+          {% endif %}
+          {% endfor %}
+
+        </ul>
+        {% else %}
+        {% if title == "Diary" %}
+        <h4>Events</h4>
+        <ul>
+          {% for post in posts %}
+          {% if post.data.isEvent %}
+          <li>
+            <a href="{{ post.url }}">{{ post.data.title }}</a><br>
+            <span style="display:inline-block;padding-top:0.4rem;">{{ post.data.eventDate | date("MMMM D, YYYY") }}</span>
+          </li>
+          {% endif %}
+          {% endfor %}
+
+        </ul>
+
+        {% else %}
+        <h4>{{ title }}</h4>
         <ul>
           {% for heading in headings %}
-            <li>
-              <a href="#{{ heading.id }}">{{ heading.text }}</a>
-            </li>
+          <li>
+            <a href="#{{ heading.id }}">{{ heading.text }}</a>
+          </li>
           {% endfor %}
         </ul>
+        {% endif %}
+        {% endif %}
+
       </div>
 
     </div>
@@ -112,11 +146,12 @@
 
 
 
-<div class="enrol-row">
-  <div class="enrol-content">
-    <p><strong>Are you enrolled to vote? <a href="https://vote.nz/enrolling/enrol-or-update/enrol-or-update-online/" target="_blank">Check now!</a></strong></p>
+  <div class="enrol-row">
+    <div class="enrol-content">
+      <p><strong>Are you enrolled to vote? <a href="https://vote.nz/enrolling/enrol-or-update/enrol-or-update-online/"
+            target="_blank">Check now!</a></strong></p>
+    </div>
   </div>
-</div>
 
   <footer>
     <p>&copy; {{ 'now' | date('Y') }} Ian Allan 2025. All Rights Reserved.</p>

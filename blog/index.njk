@@ -1,16 +1,19 @@
 ---
 layout: layouts/layout.njk
-title: 
+title: Diary
 ---
 
 <h2>Dear diary</h2>
-<p>Check back here for more thinking, public responses to queries, and where I'll be out and about to meet up.</p>
+<p>Check back here regularly for more thinking, public responses to queries, and where I'll be out and about to meet up.</p>
 
 {% set posts = collections.posts | reverse %}
 {% for post in posts %}
   <article>
-    <h2><a href="{{ post.url }}">{{ post.data.title }}</a></h2>
-    <p class="meta">{{ post.date | date("MMMM D, YYYY") }}</p>
+    <h3 id="{{ post.data.title | slugify }}"><a href="{{ post.url }}">{{ post.data.title }}</a></h3>
+    {% if post.data.isEvent %}
+    <p><strong>On {{ post.data.eventDate | date("MMMM D, YYYY") }}</strong></p>
+    {% endif %}
     <p>{{ post.data.excerpt }}</p>
+    <p class="meta">Posted: <strong>{{ post.date | date("MMMM D, YYYY") }}</strong></p>
   </article>
 {% endfor %}

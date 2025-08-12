@@ -54,7 +54,7 @@ eleventyConfig.addFilter("extractHeadings", content => {
   eleventyConfig.addPassthroughCopy("css");
   eleventyConfig.addPassthroughCopy("images");
   eleventyConfig.addPassthroughCopy("js");
-
+  
   return {
     dir: {
       input: ".",
