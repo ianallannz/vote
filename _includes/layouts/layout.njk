@@ -1,6 +1,7 @@
 {% set currentUrl = page.url %}
 {% set headings = content | safe | extractHeadings %}
 {% set posts = collections.posts | reverse %}
+{% set eventPosts = collections.events %}
 
 <!doctype html>
 <html lang="en">
@@ -115,14 +116,15 @@
         {% if title == "Diary" %}
         <h4>Events</h4>
         <ul>
-          {% for post in posts %}
-          {% if post.data.isEvent %}
+          {% for post in collections.events %}
           <li>
             <a class="page-link" href="{{ post.url }}">{{ post.data.title }}</a><br>
-            <span style="display:inline-block;padding-top:0.4rem;">{{ post.data.eventDate | date("MMMM D, YYYY") }}</span>
+            <span style="display:inline-block;padding-top:0.4rem;">
+              {{ post.data.eventDate | date("MMMM D, YYYY") }}
+            </span>
           </li>
-          {% endif %}
           {% endfor %}
+
 
         </ul>
 

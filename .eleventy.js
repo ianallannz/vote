@@ -44,6 +44,12 @@ eleventyConfig.addFilter("extractHeadings", content => {
     return headings;
   });
 
+  eleventyConfig.addCollection("events", collection => {
+  return collection.getFilteredByTag("posts")
+    .filter(post => post.data.isEvent && post.data.eventDate)
+    .sort((a, b) => new Date(a.data.eventDate) - new Date(b.data.eventDate));
+});
+
   const markdownLib = markdownIt({ html: true })
     .use(markdownItAnchor)
     .use(markdownItAttrs);
