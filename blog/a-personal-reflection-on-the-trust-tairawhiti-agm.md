@@ -19,7 +19,7 @@ For now, a little story of our own that&mdash;like being able to learn to swim f
 
 This high-tech research and development has enormous commercial applications and we are working with local industry on use cases. What's important is it's occurring in the context of reduced vocational education funding nationally that is seeing the loss of programme delivery and expertise. 
 
-**Support from our local wealth holders insulate our region from the hard edges of the macro political economy while presenting resilient pathways to an abundant life here.**
+Our local wealth holders can insulate our region from the hard edges of the macro political economy while presenting resilient pathways to an abundant life here.
 
 Stories worth telling.
 
