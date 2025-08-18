@@ -15,7 +15,7 @@ It was so clearly felt how much love there was in the room for the [award winnin
 
 For now, a little story of our own that&mdash;like being able to learn to swim for most of the year and provide access to power when the next cyclone rips through&mdash;shows how we can insulate ourselves from decisions made outside local control.
 
-**I want to thank Trust Tairāwhiti on behalf of my EIT colleague, the [incredibly smart Dr Anastasia Mozhaeva](https://anastasiamozz.github.io/portfolio/index.html).** A small grant (at this stage!) has allowed Anastasia and EIT Tairāwhiti to continue world-leading applied research with our students into advanced visual AI and commercial drone technology.
+**I want to thank Trust Tairāwhiti on behalf of my EIT colleague, the [incredibly smart Dr Anastasia Mozhaeva](https://anastasiamozz.github.io/portfolio/index.html).** A grant has allowed Anastasia and EIT Tairāwhiti to continue world-leading applied research with our students into advanced visual AI and commercial drone technology.
 
 This high-tech research and development has enormous commercial applications and we are working with local industry on use cases. What's important is it's occurring in the context of reduced vocational education funding nationally that is seeing the loss of programme delivery and expertise. 
 
