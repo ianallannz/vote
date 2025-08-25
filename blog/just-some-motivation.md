@@ -1,5 +1,5 @@
 ---
-title: A bit of motivation to make a start - For me? For you?
+title: A bit of motivation to make a start
 date: 2025-08-26
 excerpt: I recently did my video interview for the council. As you'll probably later see, sitting in front of the camera talking about myself is not my happy place!
 layout: layouts/layout.njk
