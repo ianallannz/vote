@@ -94,9 +94,11 @@
     <div class="pc-container">
 
       <div class="pc-left">
+        {% if isPost %}
+        <p class="post-date">Posted: {{ page.date | date("dd MMMM yyyy") }}</p>
+          {% endif %}
 
         {{ content | safe }}
-
 
       </div>
       <div class="pc-right">

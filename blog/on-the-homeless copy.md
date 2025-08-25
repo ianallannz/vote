@@ -21,9 +21,3 @@ So accepting our people experience extreme conditions at both ends, we can eithe
 
 >“Truly I tell you, whatever you did for one of the least of these brothers and sisters of mine, you did for me.”
 &mdash;Matthew 25:40
-
-
-
-
-
-

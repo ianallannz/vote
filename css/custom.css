@@ -542,6 +542,12 @@ nav li {
 
 }
 
+.pc-left p.post-date {
+  font-style: italic;
+  font-size: 0.8rem;
+  color: #666666;
+}
+
 .pc-left img {
   width: 100%;
   border-radius: 1rem;
