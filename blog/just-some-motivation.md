@@ -13,7 +13,7 @@ Deciding to stand for council was a long rumination that took me right up to the
 
 I recently did my video interview for the council. As you'll probably later see, sitting in front of the camera talking about myself is not my happy place.
 
-But that one decision to fall on the side of starting, to do something, is triggering a series of follow-on acts that one way or another are worthy, and hopefully in this case worthwhile for you as voters as well.
+But that one decision to fall on the side of starting, to do something, triggers a series of follow-on acts that one way or another are worthy, and hopefully in this case worthwhile for you as voters as well.
 
 I recently read this **[passage from author James Clear](https://jamesclear.com/3-2-1/august-14-2025)** that, you never know, might trigger something in you:
 
@@ -28,5 +28,9 @@ I recently read this **[passage from author James Clear](https://jamesclear.com/
 >But every race starts with one step. Every fortune starts with a small deposit. Every book begins as one sentence.  
 >  
 >The real question is not “What is my current position?” but rather, “What is my current trajectory?” Doing nothing builds nothing. Put yourself on the path to something better. Start small, but make sure you start.”
+
+And one more thing I heard from **[Steven Bartlett](https://stevenbartlett.com/)** that I had to write down:
+
+>You belong in every room you're brave enough to enter.
 
 Go for it!
