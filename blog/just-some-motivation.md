@@ -9,11 +9,11 @@ isPost: true
 
 ## A reminder to start, because there's always a reason not to 
 
-Deciding to stand for council was a long rumination that took me right up to the literal last minute. There are so many good reasons not to do this. 
+The decision to stand for council lived rent-free in my head right up to the literal last minute. I'm sure all the other candidates willing to put their hand up will agree: there are so many good reasons not to do this. 
 
-I recently did my video interview for the council. As you'll probably later see, sitting in front of the camera talking about myself is not my happy place.
+I recently did my video interview for the council. You might later see, talking about myself down the barrel of a camera is not my happy place.
 
-But that one decision to fall on the side of starting, to do something, triggers a series of follow-on acts that one way or another are worthy, and hopefully in this case worthwhile for you as voters as well.
+But that one decision to fall on the side of starting, to apply my skills to something else, triggers a series of follow-on acts that are worthy one way or another, and in this case worthwhile for you as voters as well.
 
 I recently read this **[passage from author James Clear](https://jamesclear.com/3-2-1/august-14-2025)** that, you never know, might trigger something in you:
 
@@ -34,4 +34,6 @@ And one more thing I heard from **[Steven Bartlett](https://stevenbartlett.com/)
 
 >You belong in every room you're brave enough to enter.
 
-Go for it!
+Only in this case, that room's a public square.
+
+![Let's go!](../../images/giddy-kramer.gif)
