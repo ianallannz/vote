@@ -29,6 +29,7 @@ I recently read this **[passage from author James Clear](https://jamesclear.com/
 >  
 >The real question is not “What is my current position?” but rather, “What is my current trajectory?” Doing nothing builds nothing. Put yourself on the path to something better. Start small, but make sure you start.”
 
+  
 And one more thing I heard from **[Steven Bartlett](https://stevenbartlett.com/)** that I had to write down:
 
 >You belong in every room you're brave enough to enter.
