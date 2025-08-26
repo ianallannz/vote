@@ -11,11 +11,9 @@ isPost: true
 
 The decision to stand for council lived rent-free in my head right up to the literal last minute. I'm sure all the other candidates willing to put their hand up will agree: there are so many good reasons not to do this. 
 
-I recently did my video interview for the council. You might later see, talking about myself down the barrel of a camera is not my happy place.
+I recently did my video interview for the council. You might later see, talking about myself down the barrel of a camera is not exactly my happy place.
 
-But that one decision to fall on the side of starting, to apply my skills to something else, triggers a series of follow-on acts that are worthy one way or another, and in this case worthwhile for you as voters as well.
-
-I recently read this **[passage from author James Clear](https://jamesclear.com/3-2-1/august-14-2025)** that, you never know, might trigger something in you:
+Then I read this reminder **[from author James Clear](https://jamesclear.com/3-2-1/august-14-2025)** that, you never know, might trigger something in you too:
 
 >“Running one mile has more in common with running a marathon than sitting at home.
 >    
