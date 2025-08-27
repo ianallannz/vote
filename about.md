@@ -37,7 +37,7 @@ After dux at school and a bloody hard degree in computing and mathematical scien
 
 I shifted gear into a wild private-sector career in technology, working with hi-tech capital-intensive startups and colossal mobile operators, banks, and conglomerates across Africa and South-east Asia. 
 
-With mad loyalty, I have produced solutions to hard problems in the toughest corners of the world for the most under-served communities. 
+My professional happy place is at the decision-making table. And with mad loyalty, I have produced solutions to hard problems in the toughest corners of the world for the most under-served communities. 
 
 ![Solving hard problems](../images/prof.jpg)
 
