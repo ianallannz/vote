@@ -19,7 +19,7 @@ It's a long play but it's a start to addressing the underlying problem of broadl
 
 **The reason I suggest the Council plays a role here is I've seen how Joint Ventures (JVs) more often than not wither on the vine.** 
 
-There is early enthusiasm with parties coming together on a solution to a shared market opportunity. An opportunity that they couldn't reasonably achieve on their own. It might begin as a simple partnership but the opportunity looks so big that they put skin in the game. It all makes sense. 
+In JVs there is early enthusiasm with parties coming together on a solution to a shared market opportunity. An opportunity that they couldn't reasonably achieve on their own. It might begin as a simple partnership but the opportunity looks so big that they put skin in the game. It all makes sense. 
 
 But after some time, often a year or three, the JV starts seeing funding squeezed and resources pulled back, until ultimately it's wound down citing a lack of strategic alignment or something. 
 
@@ -29,7 +29,7 @@ The problem is the parties funding the JV have their own stakeholders, sharehold
 
 But when our education, research, business, trusts, and industrial leaders start drifting back towards their own immediate needs, _someone_ with influence needs to keep reminding them:
 
->"Hey, you're losing sight of the big picture, the long term public good, the amazing joined up story that attracts capital to our place."
+>"Hey, you're losing sight of the big picture, the long term public good, the amazing joined up story that makes this a place worth staying in, a place worth returning to."
 
 &nbsp;
 
