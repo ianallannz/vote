@@ -17,7 +17,7 @@ The idea is to ensure we're nurturing the right pathways for locals to solve har
 
 It's a long play but it's a start to addressing the underlying problem of broadly low free incomes in the region.
 
-**The reason I suggest the Council to plays a role here is I've seen how Joint Ventures (JVs) more often than not wither on the vine.** 
+**The reason I suggest the Council plays a role here is I've seen how Joint Ventures (JVs) more often than not wither on the vine.** 
 
 There is early enthusiasm with parties coming together on a solution to a shared market opportunity. An opportunity that they couldn't reasonably achieve on their own. It might begin as a simple partnership but the opportunity looks so big that they put skin in the game. It all makes sense. 
 
