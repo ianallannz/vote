@@ -559,6 +559,15 @@ nav li {
   margin-right: 0.7rem;
 }
 
+.pc-left img.blog-float-img {
+  width: 100%;
+  float: none;
+  margin-right: 0.7rem;
+  border-radius: 0px;
+  border: 1px solid #EEEEEE;
+  padding: 0.3rem;
+}
+
 .pc-left ul {
   margin-left: 3rem;
   padding: 0.3rem 0rem 0.6rem 0.8rem;
@@ -1187,6 +1196,12 @@ nav li {
   font-size: 1.2rem;
 
 }
+
+.pc-left img.blog-float-img {  
+  width: 250px;
+  float: left;
+}
+
 .pc-right {
   display: flex;
 }
