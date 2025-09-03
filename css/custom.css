@@ -1248,7 +1248,12 @@ nav li {
 .pc-right ul li a.page-link {
   color: var(--text-link-color);
   text-decoration: underline;
+}
 
+
+.done {
+  text-decoration: line-through !important;
+  color: #AAAAAA !important;
 }
 
 .pc-right ul li a:hover {
@@ -1265,7 +1270,6 @@ nav li {
   color: var(--text-color);
   text-decoration: none;
 }
-
 
 
 
