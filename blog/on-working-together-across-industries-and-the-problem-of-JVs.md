@@ -9,7 +9,7 @@ isPost: true
 
 ## Bringing education, research, trusts, and industry together; and the problem with Joint Ventures 
 
-<a href="https://www.nzherald.co.nz/gisborne-herald/news/gisborne-candidates-vision-a-place-worth-staying-and-returning-to/3DIBTCTJDVCWNJPVUX3TZGLWC4/"><img src="../../images/gis-herald-snip.jpg" class="blog-float-img"></a>I was recently [interviewed by Local Democracy Reporter Zita Campbell](https://www.nzherald.co.nz/gisborne-herald/news/gisborne-candidates-vision-a-place-worth-staying-and-returning-to/3DIBTCTJDVCWNJPVUX3TZGLWC4/)\*.
+<a href="https://www.nzherald.co.nz/gisborne-herald/news/gisborne-candidates-vision-a-place-worth-staying-and-returning-to/3DIBTCTJDVCWNJPVUX3TZGLWC4/" target="_blank"><img src="../../images/gis-herald-snip.jpg" class="blog-float-img"></a>I was recently <a href="https://www.nzherald.co.nz/gisborne-herald/news/gisborne-candidates-vision-a-place-worth-staying-and-returning-to/3DIBTCTJDVCWNJPVUX3TZGLWC4/" target="_blank">interviewed by Local Democracy Reporter Zita Campbell</a>\*.
 
 I touched on **the Council as a facilitator across education, research, business, trusts, and industrial leaders**. 
 
