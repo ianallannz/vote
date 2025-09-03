@@ -108,7 +108,7 @@
           {% for post in posts %}
           {% if post.url != page.url %}
           <li>
-            <a class="page-link" href="{{ post.url }}">{{ post.data.title }}</a>
+            <a class="page-link{% if post.data.attended %} done{% endif %}" href="{{ post.url }}">{{ post.data.title }}</a>
           </li>
           {% endif %}
           {% endfor %}
@@ -120,8 +120,8 @@
         <ul>
           {% for post in collections.events %}
           <li>
-            <a class="page-link" href="{{ post.url }}">{{ post.data.title }}</a><br>
-            <span style="display:inline-block;padding-top:0.4rem;">
+            <a class="page-link{% if post.data.attended %} done{% endif %}" href="{{ post.url }}">{{ post.data.title }}</a><br>
+            <span style="display:inline-block;padding-top:0.4rem;"{% if post.data.attended %} class="done"{% endif %}>
               {{ post.data.eventDate | date("MMMM D, YYYY") }}
             </span>
           </li>

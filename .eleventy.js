@@ -4,6 +4,7 @@ const markdownItAnchor = require("markdown-it-anchor");
 const markdownItAttrs = require("markdown-it-attrs");
 const { JSDOM } = require("jsdom");
 
+
 module.exports = function (eleventyConfig) {
   // Add date filter
   eleventyConfig.addFilter("date", function (dateObj, format) {
@@ -49,6 +50,7 @@ eleventyConfig.addFilter("extractHeadings", content => {
     .filter(post => post.data.isEvent && post.data.eventDate)
     .sort((a, b) => new Date(a.data.eventDate) - new Date(b.data.eventDate));
 });
+
 
   const markdownLib = markdownIt({ html: true })
     .use(markdownItAnchor)

@@ -7,6 +7,7 @@ tags: posts
 isPost: true
 isEvent: true
 eventDate: 2025-09-02
+attended: true
 ---
 
 ## I will be attending the Gisborne Business and Professional Women's Meet the Candidates Meeting on 2 September
