@@ -576,6 +576,14 @@ nav li {
 
 }
 
+.pc-left ol {
+  margin-left: 3rem;
+  padding: 0.3rem 0rem 0.6rem 0.8rem;
+  line-height: 1.8rem;
+  font-size: 1.2rem;
+
+}
+
 
 .pc-left a {
   color: var(--text-link-color);
