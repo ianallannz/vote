@@ -246,6 +246,26 @@ blockquote {
   color:#F89628;
 }
 
+.hero-cta-sub p.shortcuts {
+  padding-top: 2rem;
+  font-size: 0.9rem;
+}
+
+.hero-cta-sub p.shortcuts img {
+  height: 1rem;
+}
+
+.hero-cta-sub p.shortcuts a {
+  display: inline-block;
+  padding: 0rem 1rem 0rem 0rem;
+  text-decoration: none;
+  color: #4b4b4b;
+}
+
+.hero-cta-sub p.shortcuts a:hover {
+  color: #F89628;
+}
+
 .hero-nav {
   font-family: 'Inter', sans-serif;
   font-weight: 600;
@@ -711,12 +731,12 @@ i.fab {
 
 }
 
-.wait-left p a {
+.wait-left p a, .wait-left ul li a {
   color: var(--text-link-color);
   text-decoration: underline;
 }
 
-.wait-left p a:hover {
+.wait-left p a:hover, .wait-left ul li a:hover {
   color: var(--accent-color);
   text-decoration: none;
 }
@@ -728,6 +748,7 @@ i.fab {
   font-size: 1.2rem;
 
 }
+
 
 .wait-left p img {
   width: 100%;
@@ -1011,6 +1032,10 @@ h3 {
   font-weight: 600;
 }
 
+.wait-right h4.not-first {
+  padding: 2rem 0.6rem 0.4rem 0.6rem;
+}
+
 .wait-right ul {
   display: block;
 }
@@ -1029,6 +1054,12 @@ h3 {
 .wait-right ul li a {
   color: var(--text-link-color);
   text-decoration: none;
+
+}
+
+.wait-right ul li a.out-link {
+  color: var(--text-link-color);
+  text-decoration: underline;
 
 }
 
