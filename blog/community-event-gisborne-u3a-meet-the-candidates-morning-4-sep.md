@@ -7,6 +7,7 @@ tags: posts
 isPost: true
 isEvent: true
 eventDate: 2025-09-04
+attended: true
 ---
 
 ## I will be attending U3A's Meet the Candidates Morning on 4 September
