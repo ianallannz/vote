@@ -9,7 +9,9 @@ isPost: true
 
 ## When you vote, you need to rank us 
 
-Hi! Maybe you landed here after scanning a QR code or googling ianallan.vote. And now you're wondering how do you vote exactly?
+Hi! I'm standing as a candidate in the General Ward.
+
+Maybe you landed here after scanning a QR code or googling ianallan.vote. And now you're wondering how do you vote exactly?
 
 **<a href="https://vote.nz/enrolling/enrol-or-update/enrol-or-update-online/" target="_blank">Are you enrolled to vote? Are you sure?</a>**&#8599;
 
@@ -27,6 +29,6 @@ The Gisborne District Council has put together a useful video on how you vote an
 
 It's pretty uncomfortable to say "I'm your number 1 candidate!" 
 
-Most importantly, if you think I can help, please rank me on your team. 
+Most importantly, if you think I can help, please rank me on your General Ward team. 
 
 **If you *really* think I can help, the best thing you can do is rank me higher than your other favourites, even number 1!**
