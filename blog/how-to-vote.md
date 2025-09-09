@@ -19,6 +19,8 @@ If you're enrolled to vote, in the next few days you'll receive a voting pack in
 
 **You need to post your votes. If you don't know how to do that, ask someone who's old enough to remember posting letters.**
 
+Or you can drop your envelope in one of many **<a href="https://www.gdc.govt.nz/council/2025-elections/vote#heading-1" target="_blank">orange ballot box locations</a>**&#8599; provided by the council.
+
 The Gisborne District Council has put together a useful video on how you vote and how it's all counted:
 
 <div class="video-container">
