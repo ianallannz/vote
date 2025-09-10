@@ -29,7 +29,7 @@ The Gisborne District Council has put together a useful video on how you vote an
 
 &nbsp;
 
-It's pretty uncomfortable to say "I'm your number 1 candidate!" when there a many great candidates to make up your team. 
+It's pretty uncomfortable to say "I'm your number 1 candidate!" when there are many great candidates to make up your team. 
 
 Most importantly, if you think I can help, please rank me on your General Ward team. 
 

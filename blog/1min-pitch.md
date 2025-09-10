@@ -11,7 +11,7 @@ isPost: true
 
 Hi there, <a href="/about" title="About Me page">I'm Ian Allan</a>, son of Derek and Moira-Jean.
 
-I'm here to imagine <a href="/#whatamithinking" title="The full What am I thinking page">a new abundance, build on place, not things</a>.
+I'm here to imagine <a href="/#whatamithinking" title="The full What am I thinking page">a new abundance, built on place, not things</a>.
 
 Because the broader context is we're in a system that's making our children poorer, and our grandchildren poorer still. On top of that our government's are getting poorer too.
 
