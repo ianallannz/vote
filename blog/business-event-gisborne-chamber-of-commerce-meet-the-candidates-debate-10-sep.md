@@ -7,6 +7,7 @@ tags: posts
 isPost: true
 isEvent: true
 eventDate: 2025-09-11
+attended: true
 ---
 
 ## I will be attending the Gisborne Chamber of Commerce Meet the Candidates Debate on 11 September
