@@ -19,7 +19,7 @@ I *eventually* get to the tangible idea, but you first need to wade through my b
 
 &nbsp;
 
-I've come to realise that sitting at the decision-making table is my profesisonal happy place. Where **my reading, listening, and reasoning skills have been valued**. It's certainly not all this talking about myself that's been going on lately! 
+I've come to realise that sitting at the decision-making table is my professional happy place. Where **my reading, listening, and reasoning skills have been valued**. It's certainly not all this talking about myself that's been going on lately! 
 
 As they say:
 
