@@ -5,7 +5,7 @@
 <script>
   document.addEventListener("adobe_dc_view_sdk.ready", function () {
     var adobeDCView = new AdobeDC.View({
-      clientId: "eecbbca9401b4b77854e503295d78e35",
+      clientId: "a582e0124e8c4da099373b2f6a9af271",
       divId: "pdf-viewer"
     });
     adobeDCView.previewFile({
@@ -18,7 +18,13 @@
         fileName: "seachange-online.pdf"
       }
     }, {
-      embedMode: "FULL_WINDOW"
+      embedMode: "FULL_WINDOW",
+      showDownloadPDF: false,
+      showPrintPDF: false,
+      defaultViewMode: "FIT_WIDTH",
+      showZoomControl: true,
+      showAnnotationTools: false,
+      showPageControls: true
     });
   });
 </script>

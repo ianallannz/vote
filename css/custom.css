@@ -1272,6 +1272,11 @@ nav li {
   float: left;
 }
 
+.pc-left img.img-sm {  
+  width: 200px !important;
+  float: left;
+}
+
 .pc-right {
   display: flex;
 }
