@@ -1,26 +1,14 @@
 ---
-title: Podcast with Jack Marshall - Now That's an Idea
-date: 2025-09-11
-excerpt: Journalist Jack Marshall recently graciously hosted me on his podcast Now That's an Idea, available here.
+title: No Council video?
+date: 2025-09-12
+excerpt: I did film one but I'm not sure what happened.
 layout: layouts/layout.njk
 tags: posts
 isPost: true
 ---
 
-## Now That's an Idea &mdash; Cut Waste, Cut Costs!
+## No Council video?
 
-Journalist Jack Marshall recently graciously hosted me on his new podcast **<a href="https://www.youtube.com/@NowThatsanIdea" target="_blank">Now That's an Idea</a>**&#8599;. 
+I think I was first out of the gate to film the video, and I mentioned it in a post a few weeks back about <a href="/blog/just-some-motivation/">starting when there's always a reason not to</a>.
 
-I *eventually* get to the tangible idea, but you first need to wade through my background and how that informs my decision-making, and my big picture worry about our political economy.
-
-<div class="video-container">
-    <iframe width="100%" src="https://www.youtube.com/embed/__qOXbtWodM?si=1RSrj7oYrv7LObwp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-
-&nbsp;
-
-I've come to realise that sitting at the decision-making table is my profesisonal happy place. Where **my reading, listening, and reasoning skills have been valued**. It's certainly not all this talking about myself that's been going on lately! 
-
-As they say:
-
->No one ever learned anything with their mouth open!
+I'm not sure what happened to it, maybe lost on the cutting room floor, I'll see if I can find out. But given it was my first nervy outing as a candidate, I'd say it's hardly worth waiting for!
