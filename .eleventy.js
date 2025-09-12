@@ -3,6 +3,7 @@ const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
 const markdownItAttrs = require("markdown-it-attrs");
 const { JSDOM } = require("jsdom");
+const pluginPDFEmbed = require("eleventy-plugin-pdfembed");
 
 
 module.exports = function (eleventyConfig) {
@@ -30,6 +31,11 @@ module.exports = function (eleventyConfig) {
       hostname: "https://ianallan.vote",
     },
   });
+
+  eleventyConfig.addPlugin(pluginPDFEmbed, {
+    key: "eecbbca9401b4b77854e503295d78e35"
+  });
+
 
 eleventyConfig.addFilter("extractHeadings", content => {
     const dom = new JSDOM(content);
