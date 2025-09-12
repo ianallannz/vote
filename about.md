@@ -49,7 +49,7 @@ You can dig into the detail on my <a href="https://www.linkedin.com/in/ianallan/
 
 ### Keen observer and listener {#keen-observer}
 
-My success as a keen observer and listener in my professional career continued when we lived on the road throughout New Zealand for a year in a family caravan.
+My success as a keen observer and listener in my professional career continued when we lived on the road throughout New Zealand for a year in a <a href="/seachange" title="Seachange, the book (90MB!)" target="_blank">family caravan</a>&#8599;.
 
 I'm not partisan; good ideas can come from anywhere. 
 
