@@ -1,0 +1,25 @@
+
+<body style="margin:0;">
+<div id="pdf-viewer" style="height: 100vh;"></div>
+<script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
+<script>
+  document.addEventListener("adobe_dc_view_sdk.ready", function () {
+    var adobeDCView = new AdobeDC.View({
+      clientId: "eecbbca9401b4b77854e503295d78e35",
+      divId: "pdf-viewer"
+    });
+    adobeDCView.previewFile({
+      content: {
+        location: {
+          url: "https://ianallan.vote/images/seachange-online.pdf"
+        }
+      },
+      metaData: {
+        fileName: "seachange-online.pdf"
+      }
+    }, {
+      embedMode: "FULL_WINDOW"
+    });
+  });
+</script>
+</body>
