@@ -27,7 +27,7 @@ I found this recent commentary on **rage culture** useful:
 
 &nbsp;
 
-I've felt this way for a long time now, it's not just the severe division it's creating, and the depression and anxiety, but it's **the opportunity cost of all this needless distraction**. 
+I've felt this way for a long time now, it's not just the severe division it's creating, and the depression and anxiety and loneliness, but it's **the opportunity cost of all this needless distraction**. 
 
 This video pitch from four years ago is still resonating:
 
