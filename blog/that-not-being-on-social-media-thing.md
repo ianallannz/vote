@@ -29,7 +29,7 @@ I found this recent commentary on **rage culture** useful:
 
 I've felt this way for a long time now, it's not just the severe division it's creating, and the depression and anxiety, but it's **the opportunity cost of all this needless distraction**. 
 
-This video pitch from four years ago, is still resonating:
+This video pitch from four years ago is still resonating:
 
 <div class="video-container">
     <iframe width="100%" src="https://www.youtube.com/embed/SRb4q9XT_50?si=S5q57cbRUK_OqlEX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
