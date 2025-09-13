@@ -17,7 +17,7 @@ But for me we've reached the point where, on-balance, the negatives of social me
 
 The damage is visible everywhere, now proven by whistleblowers from inside these very companies. 
 
-Even **the latest horrific tragedy with Charlie Kirk** almost certainly wouldn't have happened if we weren't all being pushed to extremes by social media. 
+Even **the latest murder of Charlie Kirk** almost certainly wouldn't have happened if we weren't all being pushed to extremes by social media. 
 
 I found this recent commentary on **rage culture** useful: 
 
