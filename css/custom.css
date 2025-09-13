@@ -139,6 +139,18 @@ blockquote {
 
 }
 
+a.not-on-social-link {
+  text-decoration: none !important;
+  border-bottom: 1px dotted #999999;
+  color: var(--text-color) !important;
+}
+
+a.not-on-social-link:hover {
+  text-decoration: none !important;
+  border-bottom: none;
+  color: var(--text-color) !important;
+}
+
 .bottom-wrapper {
   display: flex;
   justify-content: center;
