@@ -17,17 +17,7 @@ But for me we've reached the point where, on-balance, the negatives of social me
 
 The damage is visible everywhere, now proven by whistleblowers from inside these very companies. 
 
-Even **the latest murder of Charlie Kirk** almost certainly wouldn't have happened if we weren't all being pushed to extremes by social media. 
-
-I found this recent commentary on **rage culture** useful: 
-
-<div class="video-container">
-    <iframe width="100%" src="https://www.youtube.com/embed/vbpsJARgd_o?si=lYNkgQZRQQqWzyrH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-
-&nbsp;
-
-I've felt this way for a long time now, it's not just the severe division it's creating, and the depression and anxiety and loneliness, but it's **the opportunity cost of all this needless distraction**. 
+I've felt this way for a long time now, it's not just the severe division and rage it's fomenting, and the depression and anxiety and loneliness, but it's **the opportunity cost of all this needless distraction**. 
 
 This video pitch from four years ago is still resonating:
 
