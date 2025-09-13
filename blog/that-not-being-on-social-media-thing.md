@@ -17,7 +17,7 @@ But for me we've reached the point where, on-balance, the negatives of social me
 
 The damage is visible everywhere, now proven by whistleblowers from inside these very companies. 
 
-I've felt this way for a long time now, it's not just the severe division and rage it's fomenting, and the depression and anxiety and loneliness, but it's **the opportunity cost of all this needless distraction**. 
+It's not just the severe division and rage it's fomenting, and the depression and anxiety and loneliness, but it's **the opportunity cost of all this needless distraction**. 
 
 This video pitch from four years ago is still resonating:
 
