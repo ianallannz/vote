@@ -28,9 +28,13 @@ But to really understand how this raises disposable incomes and quality of life 
 - <a href="/">What am I thinking?</a>
 - <a href="/about">Why me?</a>
 - <a href="/blog">Diary</a> entries where I'm digging into the detail
-- <a href="/blog/council-candidate-video/">My council candidate video</a>
+- My council candidate video below
 - <a href="https://policy.nz/2025/gisborne-district-council-tairawhiti-general-ward/policies/climate-change-and-resilience">Policy.nz</a>&#8599; for policy positions across a range of areas
 
 And when it comes time to vote, don't think of me competing against your favourite candidates, think of me working *with* your favourite candidates, on your team.
 
 Stronger together. Tātou tātou e.
+
+<div class="video-container">
+    <iframe width="100%" src="https://www.youtube.com/embed/6JF0NoWQX0E?si=EUqsAmYV3roUdO3J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
