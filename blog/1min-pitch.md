@@ -23,11 +23,12 @@ I believe through our council and our regional wealth holders we can blunt the h
 2. Making this a place worth staying in, a place worth returning to
 3. Becoming a deeply self-sufficient and resilient place
 
-But to really understand how this raises disposable incomes and quality of life and where I've come from, you'll now need to browse through:
+But to really understand how this raises disposable incomes and quality of life and where I've come from, you'll now need to look through:
 
 - <a href="/">What am I thinking?</a>
 - <a href="/about">Why me?</a>
 - <a href="/blog">Diary</a> entries where I'm digging into the detail
+- <a href="/blog/council-candidate-video/">My council candidate video</a>
 - <a href="https://policy.nz/2025/gisborne-district-council-tairawhiti-general-ward/policies/climate-change-and-resilience">Policy.nz</a>&#8599; for policy positions across a range of areas
 
 And when it comes time to vote, don't think of me competing against your favourite candidates, think of me working *with* your favourite candidates, on your team.
