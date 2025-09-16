@@ -283,6 +283,11 @@ a.not-on-social-link:hover {
   font-size: 1rem;
 }
 
+.hero-cta-sub p.howtovote a img {
+  display: inline-block;
+  padding-top: 0.1rem;
+}
+
 .hero-cta-sub p.howtovote a {
   color: var(--text-link-color);
   text-decoration: underline;
