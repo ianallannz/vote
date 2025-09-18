@@ -7,6 +7,7 @@ tags: posts
 isPost: true
 isEvent: true
 eventDate: 2025-09-18
+attended: true
 ---
 
 ## I will be attending the Community Hui at Gisborne Bowling Club on 18 September

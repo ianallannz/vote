@@ -7,6 +7,7 @@ tags: posts
 isPost: true
 isEvent: true
 eventDate: 2025-09-18
+attended: true
 ---
 
 ## I will be attending the Kiri Te Kanawa Retirement Village Meet the Candidates Afternoon on 18 September
