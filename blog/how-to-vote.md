@@ -15,7 +15,7 @@ Maybe you landed here after scanning a QR code or googling ianallan.vote. And no
 
 **<a href="https://vote.nz/enrolling/enrol-or-update/enrol-or-update-online/" target="_blank">Are you enrolled to vote? Are you sure?</a>**&#8599;
 
-If you're enrolled to vote, in the next few days you'll receive a voting pack in your registered mail box &mdash; not your email box, your actual mail box &mdash; so look out for it. 
+If you're enrolled to vote, you should have now received a voting pack in your registered mail box &mdash; not your email box, your actual mail box. If you haven't received your voting pack by now, you can still cast a <a href="https://www.gdc.govt.nz/council/2025-elections/vote#heading-2" target="_blank">special vote</a>&#8599;.  
 
 **You need to post your votes. If you don't know how to do that, ask someone who's old enough to remember posting letters.**
 
