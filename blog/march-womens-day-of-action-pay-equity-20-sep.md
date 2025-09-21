@@ -7,6 +7,7 @@ tags: posts
 isPost: true
 isEvent: true
 eventDate: 2025-09-20
+attended: true
 ---
 
 ## See you at the Women's Day of Action on 20 September
