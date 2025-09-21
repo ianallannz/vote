@@ -94,7 +94,7 @@ Not trying to be too hippy dippy, but we could:
 
 - incentivise us to collect the water off our roofs; 
 - seriously reduce, reuse, and repurpose; and 
-- use mentally and physcially healthier means to get around too.
+- use mentally and physcially healthier means to get around when we can.
 
-Happy to hear your simple or innovative suggestions and fixes &mdash; that's exactly what I'm here for!
+What are your simple or innovative suggestions and fixes? It's exactly what I'm here for!
 
