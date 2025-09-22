@@ -17,6 +17,16 @@ I've been hearing variations of "the council needs to stop wasting all our money
 - **"Bloody raised crossings!"**, and the 
 - **"Cost of compliance and consenting!"**
 
+Before I go any further...
+
+- don't let your power company off the hook, 
+- your insurance company off the hook, 
+- your banks off the hook, 
+- your oil companies off the hook, 
+- your supermarkets off the hook. 
+
+Compared to some of them, the amount of things you get for your rates dollars isn't too bad!
+
 #### "Too many staff!"
 
 There have been notable increases in staffing levels in the last three years. These increases were mostly to support the necessary post-Gabrielle recovery work, these workers haven't been sitting around wasting time.
