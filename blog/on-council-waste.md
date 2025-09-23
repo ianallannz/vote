@@ -51,7 +51,7 @@ Focusing on the bloody raised crossings elsewhere... as public infrastructure, I
 
 &nbsp;
 
-There will be inefficiencies in the way the work is procured and managed by large third parties. Here, I would like to see increased in-house technical expertise and authority to reduce our reliance on outside consultants.
+There will be inefficiencies in the way the work is procured and managed by large consultancies. Here, I would like to see increased in-house technical expertise and authority.
 
 #### "The cost of compliance and consenting!"
 
