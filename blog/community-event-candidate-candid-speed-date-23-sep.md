@@ -7,6 +7,7 @@ tags: posts
 isPost: true
 isEvent: true
 eventDate: 2025-09-23
+attended: true
 ---
 
 ## I will be attending the Candid Speed Date event on 23 September
