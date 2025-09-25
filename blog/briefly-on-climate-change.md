@@ -17,5 +17,11 @@ Thank you to the <a href="https://www.youtube.com/@ExchangeCafe" target="_blank"
 
 &nbsp;
 
+I do bang on about place, not things, and **that might sound disconcerting for local retailers**... but I love *local* retail. 
+
+This latest, beautiful example is what I believe the <a href="https://www.nzherald.co.nz/gisborne-herald/news/new-gisborne-creative-hub-offers-fabrics-fashion-workshops-and-local-design/EBBP3WKHONHJBONHEYYMHDO27M/" target="_blank">future of retail+value-added service</a>&#8599; looks like in a provincial resilient, sustainable, resourceful future place:
+
+<a href="https://www.nzherald.co.nz/gisborne-herald/news/new-gisborne-creative-hub-offers-fabrics-fashion-workshops-and-local-design/EBBP3WKHONHJBONHEYYMHDO27M/" target="_blank"><img src="../../images/gis-herald-snip-retail.jpg"></a>
+
 We can be the little resilient beacon of hope on the Coast. 
 
