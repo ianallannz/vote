@@ -1,5 +1,5 @@
 ---
-title: Briefly on climate change
+title: Briefly on climate change, and retail
 date: 2025-09-26
 excerpt: Our thoughts on climate change were captured when we recorded our GDC candidate videos.
 layout: layouts/layout.njk
