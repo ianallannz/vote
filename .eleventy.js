@@ -54,7 +54,7 @@ eleventyConfig.addFilter("extractHeadings", content => {
   eleventyConfig.addCollection("events", collection => {
   return collection.getFilteredByTag("posts")
     .filter(post => post.data.isEvent && post.data.eventDate)
-    .sort((a, b) => new Date(a.data.eventDate) - new Date(b.data.eventDate));
+    .sort((a, b) => new Date(b.data.eventDate) - new Date(a.data.eventDate));
 });
 
 
