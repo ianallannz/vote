@@ -7,6 +7,7 @@ tags: posts
 isPost: true
 isEvent: true
 eventDate: 2025-09-26
+attended: true
 ---
 
 ## I'll be out and about in the neighbourhood this Arts Festival weekend
