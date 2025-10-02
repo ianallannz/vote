@@ -106,9 +106,9 @@
         <h4>Other diary entries</h4>
         <ul>
           {% for post in posts %}
-          {% if post.url != page.url %}
+          {% if post.url != page.url and not post.data.attended %}
           <li>
-            <a class="page-link{% if post.data.attended %} done{% endif %}" href="{{ post.url }}">{{ post.data.title }}</a>
+            <a class="page-link" href="{{ post.url }}">{{ post.data.title }}</a>
           </li>
           {% endif %}
           {% endfor %}
