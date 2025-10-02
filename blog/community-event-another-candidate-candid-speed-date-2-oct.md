@@ -7,6 +7,7 @@ tags: posts
 isPost: true
 isEvent: true
 eventDate: 2025-10-2
+attended: true
 ---
 
 ## I will be attending the speed dating evening on 2 October
