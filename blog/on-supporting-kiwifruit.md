@@ -1,7 +1,7 @@
 ---
 title: Asked about the kiwifruit industry
 date: 2025-10-03
-excerpt: When I kicked off my campaign, kiwifruit wasn't front-of-mind, but it's a reminder that as a councillor you can be asked 'what's the council going to do about [anything]'..."
+excerpt: When I kicked off my campaign, kiwifruit wasn't front-of-mind, but it's a reminder that as a councillor you can be asked 'what's the council going to do about [anything]'.
 layout: layouts/layout.njk
 tags: posts
 isPost: true
