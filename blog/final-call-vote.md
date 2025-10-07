@@ -29,8 +29,6 @@ If you're still thinking ***what's the point?*** There is a point, <a href="http
 
 >I don’t know how to tell you this. So many things done by council. Did the water come out of your tap? That’s council. Do you want an apartment? The council decides where apartments can go and **a lot of the time they decide on “nowhere” and “f*ck you”**. Do you like having a huge housing crisis? Councils do those. Do you want to be able to bike without being run over by a truck? Council can make that happen, or more likely, not make that happen and kill you instead.
 >
->Seriously there are people in there who literally just say no to everything for an entire term. **Rates rises? No. Service cuts? No. Houses near bus stations? No. Houses on the edge of town? No.** This often goes on for 20 straight years. People keep voting them in. 
->
 >**Enough!** I don’t know any other way to say it. So many of your daily problems are caused by council. They get away with it because everyone thinks they’re boring and irrelevant.
 
 <a href="https://thespinoff.co.nz/politics/06-10-2025/city-is-made-of-council" target="_blank">Read the full frustrated rant by Hayden Donnell</a>&#8599;, written just for you.
