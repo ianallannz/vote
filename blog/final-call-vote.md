@@ -41,7 +41,7 @@ If you're still thinking ***what's the point?*** There is a point, <a href="http
 
 Once, we could pretty safely say **"you'll be back"**. 
 
-But if we keep sh*tting on this place and keeping it under the thumb, then the things we promote &mdash; a cool town with clean beaches, and the slow pace of life with a good job and a decent house with a small mortgage and time for a surf in the morning &mdash; won't live up to the hype.
+But if we keep give up and keep this place under the thumb, then the things we promote &mdash; a cool town with clean beaches, and the slow pace of life with a good job and a decent house with a small mortgage and time for a surf in the morning &mdash; won't live up to the hype.
 
 ### Whatever you do
 
