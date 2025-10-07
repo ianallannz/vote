@@ -43,9 +43,18 @@
 <body>
   <header class="page-header">
     <div class="page-container">
+      <div class="top-row-final-call">
+        <div class="top-content-final-call">
+          <p><strong><a href="/blog/final-call-vote/" title="Final call: Vote! Please">Final call: Vote like you mean
+                it!</a></strong>
+          </p>
+        </div>
+      </div>
       <div class="page-top-row">
         <div class="page-top-content">
-          <p><a href="/blog/that-not-being-on-social-media-thing/" title="About trying to steer clear of social media" class="not-on-social-link">I'm not on social media</a> but you can still <strong><a href="#" id="nativeShare">share this
+          <p><a href="/blog/that-not-being-on-social-media-thing/" title="About trying to steer clear of social media"
+              class="not-on-social-link">I'm not on social media</a> but you can still <strong><a href="#"
+                id="nativeShare">share this
                 page</a></strong>.</p>
         </div>
       </div>
@@ -96,7 +105,7 @@
       <div class="pc-left">
         {% if isPost %}
         <p class="post-date">Posted: {{ page.date | date("dd MMMM yyyy") }}</p>
-          {% endif %}
+        {% endif %}
 
         {{ content | safe }}
 
@@ -120,8 +129,9 @@
         <ul>
           {% for post in collections.events %}
           <li>
-            <a class="page-link{% if post.data.attended %} done{% endif %}" href="{{ post.url }}">{{ post.data.title }}</a><br>
-            <span style="display:inline-block;padding-top:0.4rem;"{% if post.data.attended %} class="done"{% endif %}>
+            <a class="page-link{% if post.data.attended %} done{% endif %}" href="{{ post.url }}">{{ post.data.title
+              }}</a><br>
+            <span style="display:inline-block;padding-top:0.4rem;" {% if post.data.attended %} class="done" {% endif %}>
               {{ post.data.eventDate | date("MMMM D, YYYY") }}
             </span>
           </li>

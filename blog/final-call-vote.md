@@ -9,9 +9,15 @@ isPost: true
 
 ## Final Call: Vote like you mean it!
 
-Find those voting forms on the fridge, on the table by the door, or under the pile of bills you don't want to face.
+### If you're a grandparent
 
-If you don't have voting forms and you're not enrolled, <a href="https://www.gdc.govt.nz/council/2025-elections/vote#heading-2" target="_blank"><strong>you CAN still cast a special vote at a place near you</strong></a>&#8599;.
+#### Vote like your grandchildren are watching
+
+Vote for your legacy. For leaving this place better than you found it. 
+
+Vote for a good life in useful work in real industries for our rangatahi. 
+
+This time, **put aside your grumbles**, and find a way to vote with hope for your grandies' future abundance, built on this special place, not things.
 
 ### If you're young
 
@@ -29,16 +35,6 @@ If you're still thinking ***what's the point?*** There is a point, <a href="http
 
 <a href="https://thespinoff.co.nz/politics/06-10-2025/city-is-made-of-council" target="_blank">Read the full frustrated rant by Hayden Donnell</a>&#8599;, written just for you.
 
-### If you're a grandparent
-
-#### Vote like your grandchildren are watching
-
-Vote for your legacy. For leaving this place better than you found it. 
-
-Vote for a good life in useful work in real industries for our rangatahi. 
-
-This time, **put aside your grumbles**, and find a way to vote with hope for your grandies' future abundance, built on this special place, not things.
-
 ### If you're a parent
 
 #### Vote for your children to come back one day
@@ -52,6 +48,10 @@ But if we keep sh*tting on this place and keeping it under the thumb, then the t
 #### Vote!
 
 Like you mean it, because it does mean something, it makes a difference, it really does.
+
+Find those voting forms on the fridge, on the table by the door, or under the pile of bills you don't want to face.
+
+If you don't have voting forms and you're not enrolled, <a href="https://www.gdc.govt.nz/council/2025-elections/vote#heading-2" target="_blank"><strong>you CAN still cast a special vote at a place near you</strong></a>&#8599;.
 
 One more time for the campaign trail:
 
