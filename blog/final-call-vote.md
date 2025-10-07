@@ -7,7 +7,7 @@ tags: posts
 isPost: true
 ---
 
-## Final Call: Vote like you mean it!
+## Final call: Vote like you mean it!
 
 ### If you're a grandparent
 
