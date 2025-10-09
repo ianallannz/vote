@@ -49,6 +49,8 @@ Like you mean it, because it does mean something, it makes a difference, it real
 
 Find those voting forms on the fridge, on the table by the door, or under the pile of bills you don't want to face.
 
+**Don't post your vote!** It's too late, so drop your envelope in one of many **<a href="https://www.gdc.govt.nz/council/2025-elections/vote#heading-1" target="_blank">orange ballot box locations</a>**&#8599; provided by the council **before 12noon Saturday 11 October**.
+
 If you don't have voting forms and you're not enrolled, <a href="https://www.gdc.govt.nz/council/2025-elections/vote#heading-2" target="_blank"><strong>you CAN still cast a special vote at a place near you</strong></a>&#8599;.
 
 One more time for the campaign trail:
