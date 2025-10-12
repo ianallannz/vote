@@ -21,13 +21,13 @@ From a standing start with no prior profile, you trusted what I had to say, and 
 
 #### It's a tough message to sell
 
-It's not cool being out there saying our system is making most families poorer and our governments poorer too (*here he goes again!*). Especially when personally you might be one of the lucky ones doing just fine.
+It's not cool being out there saying our system is making most families intergenerationally poorer and our governments poorer too (*here he goes again!*). Especially when personally you might be one of the lucky ones doing just fine.
 
 Unfortunately the fundamentals aren't changing and I really don't want to bang the same drum in three years time.
 
 **I have hope though.** 
 
-If we accept that the broader system is making things worse &mdash; **if we fall in love with the problem** &mdash; then we can just get on with solving things for ourselves out here. 
+If we accept that the broader system is making things worse for our rangatahi &mdash; **if we fall in love with the problem** &mdash; then we can just get on with solving things for ourselves out here. 
 
 >Now is the time to build our own resiliency, build our own self-sufficiency, get our primary industries up the value chain, protect our environment, and support and invest in each other.
 
