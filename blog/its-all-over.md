@@ -21,7 +21,7 @@ From a standing start with no prior profile, you trusted what I had to say, and 
 
 #### It's a tough message to sell
 
-It's not cool being out there saying our system is now making most families poorer and our governments poorer too (*here he goes again!*). Especially when personally you might be one of the lucky ones doing just fine.
+It's not cool being out there saying our system is making most families poorer and our governments poorer too (*here he goes again!*). Especially when personally you might be one of the lucky ones doing just fine.
 
 Unfortunately the fundamentals aren't changing and I really don't want to bang the same drum in three years time.
 
