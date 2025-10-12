@@ -1,7 +1,7 @@
 ---
 title: "Thank you for believing in me!"
 date: 2025-10-12
-excerpt: You're probably here now because you know I didn't make it.
+excerpt: From a standing start with no prior profile, you trusted what I had to say, and how I said it, and you got me pretty close to representing you.
 layout: layouts/layout.njk
 tags: posts
 isPost: true
