@@ -113,6 +113,31 @@ blockquote {
   margin: 0;
 }
 
+.over-here-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 4px;
+  height: 60px;
+  background-color:#1100FF;
+  border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+
+.over-here-content p {
+  font-size: 1.0rem;
+  font-family: 'Inter', sans-serif;
+  font-weight: 500;
+}
+
+.over-here-content a {
+  color: #FFFFFF;
+  text-decoration: underline;
+}
+
+.over-here-content a:hover {
+  text-decoration: none;
+}
+
 .enrol-row {
   display: flex;
   justify-content: center;
